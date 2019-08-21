@@ -1,0 +1,322 @@
+﻿#o_que_e_concordancia
+O que é uma concordância?
+Concordância o que é?
+O que sabe sobre concordância?
+Me diga sobre concordância.
+Qual o conceito da concordância.
+O que seria concordância?
+Quero saber mais sobre concordância.
+Me explique um pouco mais sobre concordância.
+Simplifique o que é concordância.
+Me diga mais sobre concordância. 
+O que faz a concordância em um texto.
+Quero aprender sobre concordância.
+O que é concordância?
+*R: Concordância é o modo pelo qual as palavras alteram suas terminações para se acomodarem a outras palavras. Diz respeito à concordância entre o verbo e o sujeito da oração.
+
+#exemplos_de_concordancia
+Me mostra um exemplo de concordância. 
+Como eu uso concordância? 
+Fale exemplos de concordância. 
+Quando usar concordância. 
+Como aplicar concordância no meu texto?
+Quero aplicar concordância como faço?
+Me mostra como usar concordância. 
+Exemplifique concordância. 
+Quero ver concordância na prática.
+Me mostra aí uns exemplos de concordância. 
+*R: A multidão gritou pelo rádio. Eu amo quando as folhas caem no outono. O menino estudioso passou na prova. Encontramos caídas as roupas e os prendedores.
+
+
+
+#o_que_regencia
+O que é regência?
+Não entendo regência.
+Conceitue regência.
+Me explica o que seria a regência?
+Quero saber mais sobre regência.
+Simplifique o que é regência.
+Me diga mais sobre regência.
+Me diga o conceito de regência.
+O que seria regência?
+Pode me explicar regência?
+O que sabe sobre regência?
+Para que serve a regência? 
+Me fale sobre regência.
+diga um pouco sobre regência.
+Quero aprender sobre regência.
+*R: Regência é uma parte da sintaxe que se ocupa basicamente de definir se um nome ou verbo exige um complemento para que o sentido expresso por ele fique completo e, em caso positivo, definir se a ligação é feita por meio de uma preposição e qual pode ser usada.
+
+
+
+#exemplos_de_regencia
+Como aplico regência
+Como faço para usar regência
+Quando irei usar regência
+Me dê um exemplo de regência
+Exemplifique regência
+Me mostre como usar regência
+Como aplicar regência no meu texto?
+Como verificar regência no meu texto
+Quero ver usos de regência
+Mostra exemplos de regência 
+*R: Chegar-ir - Vou ao médico. Cheguei a Fortaleza. Namorar - Ana namora Mário. Obedecer - Os empregados obedecem ao patrão. Simpatizar-Antipatizar - Simpatizo com Laura. Antipatizo com meu vizinho. 
+
+#o_que_crase
+O que é crase?
+Crase o que é?
+O que você sabe sobre crase?
+Defina crase.
+Qual é o conceito de crase?
+Não entendo crase. Como usar?
+Para que serve crase?
+Quero aprender sobre crase
+Simplifique o uso de crase.
+O que seria crase?
+Diga um pouco sobre crase.
+*R: É a junção da preposição a com o artigo definido as, ou ainda da preposição a com as iniciais dos pronomes demonstrativos aquelas, aqueles, aquilo ou com o pronome relativo a qual as quais. Graficamente, a fusão das vogais a é representada por um acento grave, assinalado no sentido contrário ao acento agudo - à.
+
+#exemplos_de_frases_com_crase
+Me de exemplos frases com crase.
+Me mostre usos da crase.
+Aplicações da crase.
+Quando usar a crase.
+Me mostre onde uso crase.
+Quero exemplos frases com crase.
+Diga frases que vão crase.
+Quando coloco crase no a?
+Quando uso acento grave?
+Quero ver onde usa crase.
+Quero ver exemplos de crase.
+Quando usar o a craseado?
+Queria usar crase como faz? 
+Como aplicar a crase em uma frase?
+Como posso usar crase?
+Como aplicar crase?
+Em que casos vou usar crase?
+*R: Amanhã iremos à festa de aniversário de minha colega. Sempre vamos à praia no verão. Acordei às sete horas da manhã. Elas chegaram às dez horas. O jogador fez um gol à moda de Pelé. Usava sapatos à moda de Luís XV.
+
+
+
+
+#como_nao_posso_usar_virgula
+Como posso não usar a vírgula?
+Em que caso não posso utilizar a vírgula?
+Quando não posso usar a vírgula?
+Tem alguma regra de não utilização da vírgula? 
+Posso usar a vírgula entre sujeito e o verbo?
+Tem alguma regra de utilização da vírgula?
+Quando uso a vírgula errado?
+Me explique quando não usar a vírgula.
+O que não posso separar com vírgula?
+Quando o uso da vírgula está errado.
+*R: Primeiro em que casos não usar a vírgula. Em hipótese alguma, use vírgulas entre - sujeito, verbo e complemento do verbo.
+
+#como_usar_virgula
+Quando posso usar a vírgula?
+Posso usar a vírgula quando?
+Em que situação posso usar a vírgula?
+Quando não errar no uso da vírgula?
+Simplifique o uso da vírgula.
+O que é vírgula?
+Vírgula o que é?
+Para que serve a vírgula?
+Me explique o que vírgula.
+O que sabe sobre vírgula.
+*R: A vírgula marca pausas no enunciado, indicando que os termos por ela separados não formam uma unidade sintática, apesar de estarem na mesma oração.
+
+#o_que_e_sintaxe
+O que é sintaxe?
+Sintaxe o que é?
+Para que estudo sintaxe?
+Me explique um pouco sobre sintaxe.
+Qual o conceito do uso da sintaxe?
+Em que situação é necessário o uso da sintaxe?
+O que sabe sobre sintaxe?
+Qual o conceito de sintaxe?
+Não entendo sintaxe, me explique.
+Para que serve sintaxe?
+Defina sintaxe.
+Qual o significado da sintaxe?
+Por que é necessário o uso da sintaxe?
+Quero aprender sintaxe.
+Quero saber mais sobre sintaxe.
+*R: Sintaxe é a parte da gramática que estuda a relação lógica das frases para que entre as múltiplas combinações possíveis possa transmitir um significado completo e compreensível. Para quando compor uma ideia e transformá-la em um texto seja coerente, conciso e escrito da forma correta.
+
+#o_que_e_pronome
+O que é pronome?
+Qual é a função do pronome?
+Pronome o que é?
+Defina pronome.
+O que sabe sobre pronome?
+Explique pronome.
+Não entendo, me ajude com pronome?
+Simplifique o uso do pronome.
+Qual o significado do pronome?
+Conceito de pronome.
+Me ajude a aprender pronomes.
+Quero aprender sobre pronome.
+Me diga a definição de pronome.
+O que seria pronome?
+*R: Pronome é a palavra que se usa em lugar do nome, qualificando-o de alguma forma. Grande parte dos pronomes não possuem significados fixos, isto é, essas palavras só adquirem significação dentro de um contexto.
+
+#o_que_e_gramatica_normativa
+Fale sobre a gramática normativa.
+Gramática normativa me diz o que é.
+Gramática normativa seria o que?
+Me informe o conceito da gramática normativa?
+Não entendo o que é gramática normativa.
+O que é gramática normativa?
+O que você sabe sobre gramática normativa?
+Para que serve a gramática normativa?
+Qual o conceito da gramática normativa?
+Quero saber sobre gramática normativa?
+Simplifique a gramática normativa?
+Explique a gramática normativa.
+Me fala aí a gramática normativa.
+*R: A gramática normativa é aquela que busca a padronização da língua de acordo com a norma culta. Ela estabelece as regras para falar e escrever corretamente. 
+
+#o_que_ortografia
+Fale sobre ortografia.
+Ortografia me diz o que é?
+Ortografia seria o que?
+Me informe o conceito da ortografia?
+Não entendo o que é ortografia.
+O que é ortografia?
+O que você sabe sobre ortografia?
+Para que serve a ortografia?
+Qual o conceito da ortografia?
+Quero saber sobre ortografia?
+Simplifique a ortografia
+Explique a ortografia.
+Me fala aí a ortografia.
+*R: Ortografia é o sistema no qual a escrita das palavras está convencionalizada. Graças a ela, a grafia dos vocábulos é preservada e sistematizada. A ortografia é importante porque prescreve regras e usos, já que não há identidade perfeita entre os fonemas. 
+
+#exemplos_ortografia
+Me de exemplos de ortografia.
+Me mostre usos de ortografia.
+Aplicações de ortografia.
+Como aplicar ortografia.
+Me mostre onde uso ortografia.
+Quero exemplos de ortografia.
+Diga como usar ortografia.
+Me diga exemplos de ortografia aplicada.
+Quando devo usar ortografia.
+Quero ortografia em exemplos.
+Quero entender ortografia com exemplos.
+*R: Caixa, frouxo, peixe, bochecha, bucha, blitzes, fax.
+
+#classes_morfologia
+Quais são as classes gramaticais?
+Quais são as classes morfológicas?
+Quero saber quais são as classes gramaticais.
+Quero saber quais são as classes morfológicas.
+Quais são as dez classes gramaticais? 
+Me diz quais classes gramaticais existem.
+Fale as classes gramaticais.
+Quero ver as classes morfológicas.
+Exemplifique as classes gramaticais.
+Me diga exemplos de classes morfológicas.
+Exemplifique as classes morfológicas.
+Informe quais são as classes gramaticais.
+*R: As classes de palavras ou classes gramaticais são dez - substantivo, verbo, adjetivo, pronome, artigo, numeral, preposição, conjunção, interjeição e advérbio.
+
+#exemplos_de_ortoepia
+Exemplos de ortoépia.
+Fale exemplos de ortoépia.
+Informe palavras que tenha ortoépia.
+Me diz exemplos de ortoépia.
+Palavras com ortoépia
+Ortoépia quero exemplos?
+Palavras que contenham ortoépia.
+Quais exemplos de ortoépia?
+Quero exemplos de ortoépia?
+Quero palavras que tenham ortoépia?
+Quero saber exemplos de ortoépia.
+Me mostre usos de ortoépia
+Aplicações de ortoépia.
+*R: pronúncia correta – algazarra. pronúncia incorreta – algazarra.
+pronúncia correta – bandeja. pronúncia incorreta – bandeja.
+
+
+#exemplos_de_prosodia
+Aplicações de prosódia.
+Exemplos de prosódia.
+Fale exemplos de prosódia.
+Informe palavras que tenha prosódia.
+Me diz exemplos de prosódia.
+Me fale palavras de exemplos de prosódia.
+Me mostre usos de prosódia.
+Palavras com prosódia.
+Palavras que contenham prosódia?
+Prosódia quero exemplos.
+Quais exemplos de prosódia?
+Quero palavras que tenham prosódia?
+Quero saber exemplos de prosódia.
+*R: Sútil está errado, sutil está correto. Côndor está errado, condor está correto. Interim está errado, ínterim está correto. 
+
+#o_que_e_fonologia
+Explique a fonologia?
+Fale sobre a fonologia.
+Fonologia me diz o que é.
+Fonologia seria o que?
+Me fala aí a fonologia.
+Me informe o conceito da fonologia.
+Não entendo o que é fonologia.
+O que é fonologia?
+O que você sabe sobre fonologia?
+Para que serve a fonologia?
+Qual o conceito da fonologia?
+Quero saber sobre fonologia?
+Simplifique fonologia?
+*R: Fonologia é o ramo da linguística que estuda o sistema sonoro de um idioma, do ponto de vista de sua função no sistema de comunicação linguística.
+
+#o_que_e_morfologia
+
+Explique a morfologia.
+Fale sobre a morfologia.
+Me fala aí a morfologia.
+Me informe o conceito da morfologia.
+Morfologia me diz o que é.
+Morfologia seria o que?
+Não entendo o que é morfologia.
+O que é morfologia?
+O que você sabe sobre morfologia?
+Para que serve a morfologia?
+Qual o conceito da morfologia?
+Quero saber sobre morfologia.
+Simplifique a morfologia.
+*R: A palavra morfologia vem do grego e significa estudo da forma. Na gramática, a morfologia é a área que estuda a relação entre a forma e o sentido das palavras.
+
+#o_que_e_ortoepia
+Explique a ortoépia.
+Fale sobre a ortoépia.
+Me fala aí a ortoépia.
+Me informe o conceito da ortoépia.
+Não entendo o que é ortoépia.
+O que é ortoépia?
+O que seria ortoépia?
+O que você sabe sobre ortoépia?
+Ortoépia me diz o que é?
+Para que serve a ortoépia?
+Qual o conceito da ortoépia?
+Quero saber sobre ortoépia?
+Simplifique ortoépia?
+*R: Ortoépia designa um campo da gramática normativa que zela pela fala correta, ou seja, pela pronúncia das palavras segundo a norma padrão, sem acréscimo, eliminação nem troca de fonemas.
+
+#o_que_e_prosodia
+Explique prosódia.
+Fale sobre a prosódia.
+Me fala aí prosódia.
+Me informe o conceito prosódia.
+Não entendo o que é prosódia.
+O que é prosódia?
+O que você sabe sobre prosódia?
+Para que serve prosódia?
+Prosódia me diz o que é?
+Prosódia seria o que?
+Qual o conceito da prosódia?
+Quero saber sobre prosódia?
+Simplifique prosódia?
+*R: A prosódia é um ramo da ortoépia que estabelece regras para a posição da sílaba tônica das palavras aquela que é pronunciada com maior intensidade.
+
