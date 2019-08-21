@@ -16,3 +16,5 @@ Semana AM: 07/10 a 11/10
 Apresentações: 12/10
 
 Final: 14/10
+
+Next: 02/11
