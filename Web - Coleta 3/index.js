@@ -7,7 +7,7 @@ function formatar() {
 
     var sentenca = $("#sentenca").val();
 
-    sentenca = sentenca.replace(/[`~@#$%^&*()_|+\-=;:'"0<>\{\}\[\]\\\/]/gi, '');
+    sentenca = sentenca.replace(/[`~@#$%^&*()_|+\-=;:“”'"0<>\{\}\[\]\\\/]/gi, '');
 
     sentenca = sentenca.replace(/\.\n\n/g,'.');
 
