@@ -1,0 +1,741 @@
+Pedro - IBM - Entrega Coleta 3
+1. #o_que_e_fonologia
+Ramo da linguística que estuda os sistemas de fonemas de uma língua ou das línguas em geral.
+Parte da linguística que estuda os fonemas do ponto de vista de sua função na língua pares opositivos, variantes posicionais, neutralização e arquifonema, possibilidades de combinações etc.
+A fonologia é o ramo da Linguística que estuda o sistema sonoro de um idioma.
+A palavra fonologia é oriunda do grego phonos  voz som e logos  palavra estudo.
+Estuda também a função que os sons da língua desempenham no sistema de comunicação linguística, sua organização e classificação.
+Seu principal objeto de estudo são os fonemas, menor unidade sonora das palavras.
+A divisão silábica deve ser feita a partir da soletração, apresentando o som total das letras que compõem uma sílaba.
+Nunca se separam os ditongos, tritongos, dígrafos lh, nh, ch, qu, gu, os encontros consonantais constituídos de consoante  r e consoante  l claridade, cofre e as consoantes não seguidas de vogal característica
+Separam se os hiatos, os dígrafos rr, ss, sc, sç, xc, encontros consonantais cc, cç e os prefixos bis, dis, cis, trans e ex quando seguidos de vogal.
+Se seguidos de consoante, não formarão uma nova sílaba. 
+Essa palavra tem origem grega, sendo fono  som  logia  estudo.
+Desse modo, a fonologia é uma parte da gramática que se dedica ao estudo do sistema sonoro da língua.
+Ou seja, estuda a maneira pela qual os fonemas são organizados e articulados em sílabas.
+É importante frisar que a fonética e a fonologia consistem em áreas complementares da linguística no campo da análise dos sons correspondentes à fala.
+Para compreender a importância dessa área da gramática, vejamos todas as matérias estudadas no campo na fonologia.
+O fato é que, na verdade, todas elas integram as partes constituintes da gramática, cada uma atribuída a objetos de estudo distintos.
+Assim, tendo em vista a finalidade do artigo em questão, pautemo nos no estudo apenas da fonologia.
+Para tanto, retomemos alguns conceitos relacionados à origem dessa palavra, visto que não somente ela, mas como a maioria de nossos vocábulos, originaram se de outras línguas existentes no passado.
+Portanto, temos que fono se origina do grego, cujo sentido se refere a som, voz e logia, originária também do mesmo idioma, possui significado relativo a estudo, conhecimento.
+Constata se que ambos os vocábulos apresentam semelhanças em alguns aspectos, como por exemplo, as terminações ata.
+No entanto, quando expressos oralmente, divergem de forma significativa em virtude da existência de fonemas diferentes, representados graficamente por m e p  fator responsável por atribuir aos vocábulos cargas semânticas diferentes.
+Mediante tal constatação, podemos dizer que os fonemas são os sons representados pelas letras.
+Fonologia é a área da Linguística que estuda a gramática dos sons, isto é, o sistema de sons da língua.
+À fonologia cabe descrever os fonemas, as regras de combinação dos sons para formarem unidades maiores, tais como a sílaba e as regras de atribuição do acento prosódico.
+Ao estudar os segmentos as consoantes e as vogais, a fonologia interessa se pelo valor que tais unidades linguísticas assumem em relação a outras no interior de um mesmo sistema, ou seja, interessa se pelo que é funcional na língua o fonema.
+O fonema é uma unidade que possui valor contrastivo e é, portanto, capaz de distinguir significado.
+Para verificarmos o valor contrastivo de um segmento, utilizamos o princípio da comutação, que consiste na comparação entre pares mínimos, isto é, duas palavras da língua que diferem em seu significado apenas por um segmento.
+Se tomarmos como exemplo um par mínimo do português como pato e bato, podemos observar que a simples substituição do elemento inicial resulta em mudança de significado e consequentemente na configuração de uma nova palavra.
+Esses exemplos permitem nos observar claramente o valor contrastivo das consoantes p e b, as quais, ao serem substituídas uma pela outra, geram novos itens lexicais.
+Por meio da comutação dessas consoantes, podemos concluir, então, que p e b, mais do que simples unidades de sons do português, representam fonemas da língua.
+O mesmo procedimento aplicado a todos os sons mostra que o sistema do português é composto por dezenove consoantes e sete vogais.
+Os fonemas, por seu caráter contrastivo e, portanto, invariável, estão na base dos sistemas de escrita alfabética e, no caso do português, orientam as relações entre os níveis fônico e gráfico no sistema ortográfico da língua.
+O fonema é classificado como a menor unidade sonora que se pode isolar no interior de uma palavra, sendo que o fonema possui a propriedade de estabelecer distinção entre palavras de uma língua.
+Também chamado de digrama, o dígrafo consiste no encontro de duas letras com a finalidade de representar um único fonema, sendo que os dígrafos podem ser vocálicos ou consonantais.
+Consistem em fonemas que são resultado da livre passagem da corrente de ar pela boca, ou pela boca e ao mesmo tempo pelas cavidades nasais.
+Consistem nos fonemas j e w, cuja articulação é parecida à das vogais e que se juntam a uma vogal para com ela formar sílaba.
+Esses fonemas são representados pelas letras i e u, sendo que em algumas palavras podem ser representados pelas letras e e o.
+Tratam se de fonemas que resultam de algum obstáculo encontrado pela corrente de ar.
+Somente formam sílaba quando apoiadas em uma vogal.
+fonema não é o mesmo que letra.
+O fonema é uma unidade sonora que se realiza na fala, enquanto que a letra é somente a representação gráfica do fonema.
+As sílabas consistem nas unidades intermediárias das palavras, sendo o fonema ou grupo de fonemas pronunciado s apenas numa emissão de voz.
+Os monossílabos átonos não possuem acentuação própria, ou seja, são pronunciados com baixa intensidade no interior da frase.
+Já os monossílabos tônicos possuem acentuação própria, ou seja, são pronunciados com bastante intensidade no interior da frase.
+A sílaba tônica consiste na sílaba da palavra que recebe o acento tônico, isto é, é aquela que é pronunciada com maior intensidade.
+Pelo fato de nem sempre a sílaba tônica ser indicada com acento gráfico, é necessário distinguir o acento tônico do acento gráfico.
+Acento tônico acento da fala.
+Ele se manifesta pela maior intensidade da voz durante a pronúncia de uma sílaba.
+Acento gráfico sinal utilizado, em algumas palavras, servindo para indicar a sílaba tônica.
+Com relação à posição da sílaba tônica, de acordo com a fonologia, as palavras podem ser classificadas em
+Oxítonas quando a sílaba tônica é a última sílaba da palavra
+Paroxítonas quando a sílaba tônica é a penúltima sílaba da palavra
+Proparoxítonas quando a sílaba tônica é a antepenúltima sílaba da palavra.
+Os encontros vocálicos são agrupamentos de vogais ou de vogais e semivogais sem consoante intermediária.
+Consiste no encontro de uma vogal e uma semivogal, ou vice versa, no qual a vogal e a semivogal pertencem à mesma sílaba.
+É o encontro de semivogal, exatamente nessa ordem, sendo que nos tritongos as semivogais e a vogal pertencem à mesma sílaba.
+os tritongos podem ser orais e nasais.
+É o encontro imediato de duas vogais, sendo que as vogais que formam os hiatos pertencem a sílabas distintas.
+Tratam se de grupos formados por mais de uma consoante sem vogal intermediária.
+Os encontros consonantais podem ser classificados em perfeitos e imperfeitos.
+Com todas essas informações sobre fonologia fica fácil entender como o estudo dessa área é importante, sendo a base para compreensão da Língua Portuguesa.
+Para fixar ainda mais o aprendizado é recomendado fazer listas de exercícios específicos sobre os itens estudados.
+Fonética e fonologia são ramos complementares da linguística.
+O objetivo é investigar e estudar os sons das palavras.
+Enquanto a fonética se preocupa em estudar os sons das palavras em sua realização concreta, a fonologia, por sua vez, estuda os fonemas das palavras.
+É fundamental que se diferencie o fonema, uma unidade sonora, de letra, uma representação gráfica dos fonemas da fala.
+Os fonemas não correspondem necessariamente às letras do alfabeto, havendo a possibilidade de um fonema ser representado por mais de uma letra, ou mesmo uma letra representando mais de um fonema.
+Fonema é a menor unidade sonora e distintiva de uma língua.
+Os fonemas dividem se em vogais, semi vogais e consoantes.
+Convém reforçar que o fonema é uma realidade acústica.
+Letra é o sinal gráfico que, na escrita, representa o fonema.
+A letra é uma realidade gráfico visual do fonema.
+Como as letras da escrita não conseguem representar fielmente os fonemas, criaram se símbolos especiais para a representação fiel dos sons formadores dos vocábulos.
+Esses símbolos formam o alfabeto fonético, utilizado na transcrição fonética dos sons da linguagem.
+O SPE é um livro que tenta de forma matemática formal, através de regras transformacionais, dar um tratamento adequado aos processos fonológicos da língua inglesa.
+A grande sacada do livro foi pegar a estrutura superficial do inglês e traçar regras transformacionais que dariam forma a essa estrutura.
+Em outras palavras, o livro não só descrevia porque os americanos pronunciavam a palavra note como not, como davam explicações de como essa forma fonética era alcançada e formada.
+antes de um falante do dialeto carioca falar a palavra casco, a mente deste pega o cru da palavra a representação subjacente da palavra casco.
+A sílaba é a unidade fonológica maior que o segmento e deriva do agrupamento de sons que se organizam para formar estruturas maiores.
+Os estudos fonológicos referentes à sílaba do português mostram que as consoantes C se agrupam em torno de uma vogal núcleo V para gerar sílabas bem formadas.
+Diferentemente do que sucedia no sistema verbal brasileiro, na norma europeia do português, e de acordo com a base XVII do Acordo Ortográfico de 1945, em Portugal, assinalava se sempre com acento agudo a primeira pessoa do plural do pretérito perfeito do indicativo dos verbos da primeira conjugação, terminados em ar ex aconselhámos.
+Com a entrada em vigor do Acordo Ortográfico de 1990, a base IX estipula, no seu ponto 4, que o acento agudo das formas verbais de pretérito perfeito do indicativo passa a ser facultativo ex aconselhámos ou aconselhamos, para que se distingam das formas do presente do indicativo.
+No entanto, é possível que a forma acentuada se mantenha como a preferencial em Portugal, uma vez que era essa a única grafia permitida pela anterior norma ortográfica, como acima se referiu.
+fonológico podemos dizer que fonologia e língua, e fonética e fala são termos relacionados.
+A fonologia se relaciona com a língua em termos de sistema linguístico por definir um sistema sonoro compartilhado em princípio por todos os falantes de uma determinada língua.
+ A fonética se relaciona com a fala e expressa as particularidades da fala de cada indivíduo.
+Os pulmões, brônquios e traqueia  São os órgãos respiratórios que permitem a corrente de ar, sem a qual não existiriam sons.
+A maioria dos sons que conhecemos são produzidos na expiração, servindo a inspiração como um momento de pausa no entanto, há línguas que produzem sons na inspiração, como o zulo e o boximane  são os chamados cliques.
+A laringe, onde ficam as cordas vocais  Determinam a sonoridade a vibração das cordas vocais dos sons.
+A faringe, boca e língua e as fossas nasais  Formam a caixa de ressonância responsável por grande parte da variedade de sons.
+Olhemos por um momento para o esquema do aparelho fonador antes de seguir o percurso do ar na produção de sons.
+Sons e letras são coisas diferentes.
+Ouvimos os sons e vemos as letras.
+As letras existem para representar os sons.
+Quando nos alfabetizamos, aprendemos a relacionar as letras com os sons.
+A Fonologia é a parte da Gramática que realiza o estudo sobre o comportamento dos fonemas de uma determinada língua.
+Ela estuda esses fonemas compreendidos enquanto unidades sonoras capazes de criar diferentes significados.
+A Fonologia, por sua vez, envolve a tentativa de formalizar algum padrão e por isso vai analisar os padrões de som, explicando os de forma sucinta e entendendo como há várias formas de diferir esses padrões sonoros entre os idiomas.
+Somente no século XX desenvolveu se essa disciplina que, diferentemente da Fonética, passou a se interessar pela função linguística dos sons da fala.
+Então, pode se afirmar que a interpretação daquilo que a fonética apresenta, restrita a uma língua e aos modelos teóricos que descrevem essa mesma língua, é o papel fundamental da Fonologia.
+Na tentativa de modelar a língua, foram construídas diversas teorias, cada uma com uma forma particular de entender a linguagem humana.
+Não há como se dizer que uma teoria seja melhor do que a outra elas apenas comportam visões diferentes.
+Em função dessas diferentes visões, por exemplo, para a interpretação dos sistemas de sons, há uma variedade de termos para denominá las.
+Até a consolidação da Fonologia enquanto ramo do saber linguístimo, foram necessárias várias contribuições de linguistas europeus, principalmente aqueles ligados ao pós estruturalismo.
+A Fonologia é um termo muito abrangente, uma vez que abarca estudos diacrônicos e sincrônicos, sistemas gerais e específicos.
+Um fenômeno de análise morfológica que recebeu destaque no estruturalismo linguístico foi a alomorfia.
+Definida como uma alteração na conformação física de morfemas, a alomorfia envolve distúrbio no ideal de univocidade entre forma e conteúdo, pois o morfema entidade do plano do conteúdo pode aparecer representado por formas diferentes, perspectiva na qual os chamados alomorfes constituem as representações fonéticas divergentes variações de um mesmo morfema.
+Como a maior parte das alterações nos constituintes morfológicos apresenta explicação segmental, especial ênfase foi dada às mudanças no sistema fonêmico do vocábulo com repercussão no sistema mórfico.
+A variação linguística é um fato óbvio em qualquer comunidade de falantes e não é novidade a heterogeneidade e a dinamicidade da língua.
+Muitas pesquisas empreendidas, nessa área, têm demonstrado isso, dentre muitas, citem se os
+Atlas Linguísticos publicados no país, tais como o Atlas Prévio dos Falares Baianos, Esboço de um Atlas Linguístico de Minas Gerais, Atlas Linguístico da Paraíba, Atlas Linguístico de Sergipe e Atlas Linguístico do Paraná, além de outros trabalhos de natureza estritamente sociolinguística, em que se estabelece a covariação entre os fenômenos linguísticos e sociais.
+Desse modo, a língua não é individual e muito menos estática, uma vez que evolui e se modifica na mesma proporção que a sociedade, levando em conta as particularidades históricas de cada época.
+A necessidade de conhecimento de componentes curriculares mais amplos, abrangentes, leva os professores a investir em sua formação profissional com componentes que se associem à sua sala de aula, como é o caso de cursos de pós graduação e de componentes curriculares mais específicos, como no nosso caso, que se volta para a Fonética e a Fonologia, que têm sido esquecidas, apesar da sua importância na formação das variadas competências dos alunos, como aspectos de ortografia, e as noções entre som, letra, grafia.
+Uma das mais óbvias características das línguas humanas é o fato de podermos afirmar que são produções sonoras vocais do ser humano.
+Ainda que possa haver correlatos, como a escrita ou a língua gestual, essas produções, perfeitamente exequíveis, não são comuns a todos os povos do mundo.
+Portanto, é possível postular que as línguas apresentam se in natura por sons resultantes de movimentos vocais.
+Fonologia do Grego phonos  voz som e logos  palavra estudo é o ramo da linguística que estuda o sistema sonoro de um idioma, do ponto de vista de sua função no sistema de comunicação linguística. 
+Esta é uma área muito relacionada com a fonética, mas as duas têm focos de estudo diferentes.
+Enquanto a fonética estuda a natureza física da produção e da percepção dos sons da fala chamados de fones, a Fonologia preocupa se com a maneira como eles se organizam dentro de uma língua, classificando os em unidades capazes de distinguir significados, chamadas fonemas.
+f e v são exemplos de unidades distintivas da língua portuguesa.
+É o que podemos observar num par mínimo como facavaca, pois o que garante a diferenciação entre essas duas palavras é a permutação entre os dois fonemas referidos.
+Unidades como d e d, por sua vez, não fazem distinção entre palavras no português, embora sejam diferentes sob a ótica da fonética.
+Por exemplo, em quase todas as variedades do português no Brasil, o fonema d é pronunciado de maneiras diferentes, dependendo de sua posição relativa a outros sons diante de i, é realizado como d3, ao passo que, diante de outras vogais, é pronunciado como d cf.
+a diferença na pronúncia do primeiro som das palavras dívida e dúvida.
+Por não haver contraste entre as duas formas de pronúncia, a fonologia não concebe os dois sons como fonemas distintos entende os como uma unidade do ponto de vista funcional e examina as condições sob as quais se dá a alternância entre eles.
+Além disso, a fonologia também estuda outros tópicos, como a estrutura silábica, o acento e a entonação.
+Há uma abordagem para fonologia que trabalha com uma contrapartida mental e abstrata do som.
+Baseada em um sistema de traços distintivos, essa abordagem é uma das bases, por exemplo, da fonologia gerativa.
+A seleção de uma entidade abstrata como foco remete aos trabalhos do Círculo Linguístico de Praga.
+Nessa abordagem, é mais relevante a estrutura de traços de um fonema do que sua realidade concreta.
+A partir do uso de traços distintivos em um plano mental, é possível explicar fenômenos fonológicos como o da assimilação d por n na formação do gerúndio na norma não padrão do português brasileiro.
+Por dividir muitas marcações de traços em comum com o d, o n acaba assimilando esse fonema.
+Os sistemas ortográficos de algumas línguas são baseados no princípio fonêmico de um grafema letra ou combinação de letras para cada fonema e viceversa.
+Na prática, esse ideal de biunivocidade nem sempre é alcançado, sendo mais aproximado em algumas línguas do que em outras.
+Em português, por exemplo, o mesmo som é, por vezes, representado de maneiras diferentes, dependendo da palavra representado como x em xadrez e como ch em chuva diferenciado com t apenas por escassos milhares de falantes do extremo nordeste de Portugal outra possibilidade é a de uma mesma letra ser usada para fonemas diferentes.
+a letra e representa e em medo, como em padre em português europeu e em queda.
+Para inequivocamente representar todos os sons das línguas humanas, fonólogos e foneticistas empregam alfabetos fonéticos, projetados com o objetivo de caracterizar precisamente cada símbolo.
+O mais conhecido deles é o Alfabeto Fonético Internacional, conhecido como IPA, na sigla em inglês.
+Uma das convenções largamente utilizadas em estudos da área é usar colchetes, para delimitar uma transcrição fonética, barras inclinadas à direita,  , para delimitar categorias ou sequências de fonemas e parentesis angulares, para delimitar cadeias de caracteres palavras, etc de uma língua.
+A fonologia do português varia consideravelmente entre seus dialetos, chegando, em casos extremos, a causar dificuldades na inteligibilidade.
+Este artigo tem como foco as pronúncias consideradas geralmente como padrão.
+Como o português é uma língua pluricêntrica, isto é, possui mais de um centro de referência, e as diferenças entre o português europeu PE e o português brasileiro PB podem ser consideráveis, as duas variedades são indicadas sempre que necessário.
+Uma das diferenças mais perceptíveis entre o português europeu e o brasileiro é sua prosódia.
+O português europeu é uma língua de ritmo acentual, com as sílabas átonas de menor duração que as tônicas.
+As vogais átonas sofrem redução frequente ou até mesmo cancelamento, e há uma tolerância geral a consoantes em fim de sílaba.
+Por sua vez, o português brasileiro tem características mistas,3 e varia de acordo com a taxa de fala, sexo e dialeto.
+Em taxas de fala rápidas, o português brasileiro é mais ritmo acentual, quando em taxas de fala lentas, pode ser mais ritmo silábico.
+Os dialetos das zonas rurais do Rio Grande do Sul e da Região Nordeste especialmente a Bahia são considerados mais sibiláveis ??do que os outros, enquanto que os dialetos do Sudeste Como o mineiro, no centro de Minas Gerais, o paulistano da costa setentrional e regiões leste do estado de São Paulo, o fluminense, ao longo do Rio de Janeiro, do Espírito Santo e da Zona da mata de Minas Gerais, bem como Distrito Federal, são mais frequentemente essencialmente ritmo acentual.
+Além disso, os falantes masculinos do português brasileiro falam mais rápido do que os falantes femininos e falam de uma maneira mais acentual e têm mais redução de vogais átonas e também mais cancelamento.
+No português brasileiro há uma forte tendência a sílabas abertas, terminadas por vogal só há tolerância em fim de sílaba às consoantes representadas por S e R.
+Nas sílabas terminadas por M e N, essas letras não são pronunciadas e só indicam a nasalização da vogal anterior o L em fim de sílaba é pronunciado como u, exceto no extremo Sul onde há velarização conservadora e em regiões de fala caipira onde a pronúncia é R final é frequentemente não articulado e um i epentético é inserido depois de quase todas as outras consoantes que de outra forma estariam em fim de sílaba, fazendo advogado ser pronunciado no Nordeste.
+Os encontros consonantais sempre tolerados no português brasileiro são formados por b, k, d, f, g, p, t, s ou z e v seguidos de l ou r flagrante.
+ks também pode ser incluído nessa categoria fixo fi.
+Alguns dialetos brasileiros têm características fonológicas mais próximas às do português europeu.
+Os dialetos fluminense e florianopolitano em particular têm uma redução de vogais maior assim como quase toda fala vernácula tem comparada à formal, e o dialeto fluminense tem uma tolerância maior a pronunciar róticos em fim de sílaba representados por R.
+Enquanto isso, o português africano e muitos dialetos rurais do português europeu apresentam características comumente associadas à fala brasileira.
+Para mais informações sobre as diferentes variações de sotaque, ver dialetos do português para as mudanças sonoras ocorridas ao longo da história, ver história da língua portuguesa.
+Em uma língua de ritmo acentual, sílabas podem durar diferentes quantidades de tempo, mas não é percebido como uma quantidade razoavelmente constante de tempo em média entre sílabas tônicas consecutivos.
+Consequentemente, sílabas átonas entre sílabas tônicas tendem a ser comprimidas para caber no intervalo de tempo.
+Línguas de ritmo acentual está fortemente relacionado com os processos de redução vocalicica.
+inglês, alemão, russo, língua dinamarquesa, Língua sueca, língua norueguesa, língua holandesa e língua portuguesa exceto a versão brasileira, são línguas típicas acentuais.
+Algumas linguagens de ritmo acentual, por exemplo, árabe, mantêm vogais não reduzidas.
+Entonação ou entoação é a variação da altura utilizada na fala que incide sobre uma palavra ou oração, e não de fonemas ou sílabas.
+Entonação e ênfase são elementos da prosódia, elemento da Linguística.
+As funções linguísticas da entonação são exercidas em instâncias superiores às dos fonemas e palavras, sendo considerada, portanto, um componente linguístico supra segmental.
+Muitas línguas usam a entonação sintaticamente, por exemplo, para expressar surpresa ou ironia, e, mais comumente, para distinguir uma declaração de uma interrogação o português e o inglês pertencem a este grupo.
+Outras línguas usam a variação tonal para distinguir entre diferentes significados, sendo chamadas de línguas tonais.
+Exemplos de línguas tonais são o chinês e o tailandês.
+O Alfabeto Fonético Internacional referenciado pela sigla AFI e pela sigla em inglês IPA, de International Phonetic Alphabet é um sistema de notação fonética baseado no alfabeto latino, criado pela Associação Fonética Internacional como uma forma de representação padronizada dos sons do idioma falado.
+O AFI é utilizado por linguistas, fonoaudiólogos, professores e estudantes de idiomas estrangeiros, cantores, atores, lexicógrafos e tradutores.
+O AFI foi projetado para representar apenas aquelas características da fala que podem ser distinguidas no idioma falado fonemas, entonação, e a separação de palavras e sílabas.
+Para representar características adicionais da fala, como o ranger dos dentes, sigmatismo língua presa e sons feitos com lábios leporinos, utiliza se de um conjunto ampliado de símbolos, chamados de extensões ao AFI.
+Ocasionalmente letras ou diacríticos são adicionados, removidos, ou modificados pela Associação Fonética Internacional.
+A partir da alteração mais recente em 2015, existem 107 letras, 52 diacríticos, e quatro marcas de prosódia no AFI.
+Os símbolos do Alfabeto Fonético Internacional são divididos em três categorias letras que indicam os sons básicos, diacríticos que especificam mais esses sons básicos e supra segmentais que indicam características, como velocidade, tom e acento tônico.
+Essas categorias são divididas em seções menores as letras podem ser vogais ou consoantes e os diacríticos e supra segmentais são classificados de acordo com o que indicam articulação, fonação, tom, entonação ou acentuação tônica.
+Em fonologia, par mínimo são duas palavras ou frases numa determinada língua, que dependem unicamente de um só fonema, tonema ou cronema para distinguir o seu significado.
+São comumente usados para indicar que dois fones constituem dois fonemas distintos nessa língua.
+O alfabeto fonético da OTAN é o alfabeto de soletração mais utilizado no mundo.
+Embora chamados de alfabetos fonéticos, alfabetos de soletração não têm conexão com sistemas de transcrição fonética como o alfabeto fonético internacional.
+Ao invés disso, o alfabeto da OTAN define palavraschave para letras do alfabeto inglês por meio de um princípio acrofônico Alpha para A, Bravo para B, etc.
+Para que combinações críticas de letras e números possam ser pronunciadas e entendidas por aqueles que transmitem e recebem mensagens de voz por rádio ou telefone, independente de seu idioma nativo, especialmente quando a segurança de navegação ou de indivíduos é essencial.
+É informalmente conhecido como alfabeto Zulu na aeronáutica brasileira.
+SAMPA é a sigla de Speech Assessment Methods Phonetic Alphabet Alfabeto fonético dos métodos de avaliação da fala é um sistema de escrita fonético, legível por computadores que usam o conjunto de caracteres ASCII de 7 bits.
+Tem como base o Alfabeto fonético internacional IPA.
+Para inequivocamente representar todos os sons das línguas humanas, fonólogos e foneticistas empregam alfabetos fonéticos, projetados com o objetivo de caracterizar precisamente cada símbolo.
+O mais conhecido deles é o Alfabeto Fonético Internacional, conhecido como IPA, na sigla em inglês.
+Fonologia, fonética ou fonêmica é a área da gramática encarregada de estudar como se comportam os sons em uma língua.
+Cabe à fonologia avaliar os sons da fala, seu valor funcional e suas distinções.
+A palavra fonologia também pode se referir aos sistemas fundamentais de uma língua e incluir a sintaxe do vocabulário.
+Cada palavra, portanto, é formada por um conjunto de vários fonemas.
+A simples troca de um dos fonemas de uma palavra irá transformá la em outra, de significado completamente diferente.
+A troca de fonemas ocorre, por exemplo, com as palavras camelo e cabelo.
+Com poucos fonemas, é possível criar milhares de palavras.
+Stokoe 2004 foi o primeiro a perceber e produzir conhecimento sobre os parâmetros internos dos sinais em 1960.
+O referido autor analisou ASL American Sign Language a partir da combinação de três categorias linguísticas também conhecidos como parâmetros linguísticos que atribuíam diferentes sentidos aos sinais, como por exemplo configuração da mão, localização e movimento.
+Aos parâmetros linguísticos foram acrescentados mais outros dois pontos de articulação e expressão facialcorporal.
+Segundo Quadros 2004, é importante conhecer e compreender as teorizações de Stokoe.
+Apesar da diferença existente entre línguas de sinais e línguas orais, no que concerne à modalidade de percepção e produção, o termo fonologia tem sido usado para referir se também ao estudo dos elementos básicos das línguas de sinais.
+Assim como qualquer outra língua, a Língua de Sinais também possui sua gramática própria, ou seja, ela também tem sua fonética, fonologia, morfologia, sintaxe, semântica, etc.
+A partir dos trabalhos desenvolvidos por Stokoe, outros parâmetros foram adicionados à fonologia das Línguas de Sinais a orientação da mão Or e as expressões nãomanuais.
+Os fonemas podem ser classificados do ponto de vista de suas propriedades físicas e biológicas ou por seus aspectos gramaticais.
+Fonema é o menor elemento sonoro capaz de estabelecer uma diferença de significado entre as palavras.
+Cada segmento sonoro se refere a imagem acústica que nós, falantes de português, guardamos de cada um deles.
+O fonema é constituído por essa imagem acústica.
+Os fonemas compõem os significantes dos signos linguísticos que são formados pelo significado e o significante e aparecem, geralmente, representados entre barras.
+Sotaque é uma maneira particular de determinado locutor pronunciar determinados fonemas em um idioma ou grupo de palavras.
+É a variante própria de uma região, classe ou grupo social, etnia, sexo, idade ou indivíduo, em qualquer grupo linguístico, e podese caraterizar por alterações de ritmo, entonação, ênfase ou distinção fonêmica.
+É também o nome usado para a pronúncia imperfeita de um idioma falado por um estrangeiro.
+A variação do sotaque não depende apenas da região mas também da forma e condição social em que a pessoa vive.
+A vogal é o mais importante dos fonemas, pois não existem sílabas sem vogais.
+A consoante se caracteriza pelo fato de o som ser emitido com obstáculos, uma vez que não consegue sair livremente pela boca.
+Elas somente formam sílabas apoiadas no som de uma vogal, daí decorre o nome consoante, ou seja, com som de uma vogal, no caso.
+São acentuadas graficamente as oxítonas terminadas em aas, ees, oos, e emens.
+As palavras oxítonas terminadas em iis e uus somente são acentuadas se estiverem precedidas de outras vogais.
+Não são acentuadas as oxítonas que não apresentam as terminações supracitadas.
+Proparoxítona é uma palavra que tem a antepenúltima sílaba como sílaba tônica, ou seja, a sua antepenúltima sílaba é aquela que é pronunciada com mais força.
+As restantes sílabas da palavra são átonas, sendo pronunciadas com menor intensidade.
+Nem toda a sílaba tônica é sinalizada com acento gráfico.
+Acento tônico e acento gráfico são coisas diferentes e, por isso, não devem ser confundidos.
+Enquanto o acento gráfico é um sinal gráfico, o acento tônico marca a intensidade do som.
+As palavras dúvida e líquido são proparoxítonas porque a sílaba tônica dessas palavras está localizada na antepenúltima sílaba da palavra.
+Paroxítonas quando a sílaba tônica é a penúltima sílaba da palavra.
+Exemplos de paroxítona secretária, biquíni, táxi.
+A divisão silábica deve ser feita a partir da soletração, apresentando o som total das letras que compõem uma sílaba.
+Toda língua apresenta uma variação social e regional considerável.
+Os defensores do prescritivismo entendem que se muitas pessoas querem usar uma língua para um número diferente de finalidades, então é conveniente e mesmo necessário que haja uma norma linguistica consensual  uma língua padrão  conhecida e usada por todos ou, pelo menos, por todos os falantes cultos.
+Se as demais pessoas insistirem em usar suas variedades próprias de línguas, haverá confusão e incompreensão.
+As línguas continuam em mudança, sempre existirão dúvidas e discordâncias quanto às formas e usos que devem ser reconhecidos como fazendo parte da língua padrão.
+A definição clássica de signo é algo que é usado, referido ou tomado no lugar de outra coisa.
+O signo linguístico é um elemento representativo que apresenta dois aspectos o significado e o significante.
+Ao escutar a palavra cachorro, reconhecemos a sequência de sons que formam essa palavra.
+Sons se identificam com a lembrança deles que está em nossa memória.
+A lembrança dos sons constitui uma real imagem sonora, armazenada em nosso cérebro que é o significante do signo cachorro.
+Quando escutamos a palavra cachorro, logo pensamos em um animal irracional de quatro patas, com pelos, olhos, orelhas, etc.
+Ao empregar os signos que formam a nossa língua, devemos obedecer às regras gramaticais convencionadas pela própria língua.
+Signos linguísticos, por exemplo, pode se colocar o artigo indefinido um diante do signo cachorro, formando a sequência um cachorro, o mesmo não seria possível se quiséssemos colocar o artigo uma diante do signo cachorro.
+Língua natural língua humana, língua idiomática, ou somente língua ou idioma é qualquer linguagem desenvolvida naturalmente pelo ser humano, de forma não premeditada, como resultado da facilidade inata para a linguagem possuída pelo intelecto humano.
+Fonologia é a  ciência que  estuda os  sons da língua do ponto de  vista  de sua  função no sistema de  comunicação  linguística.
+Fonologia estuda os elementos fônicos que  distinguem,  numa  mesma  língua, duas mensagens de  sentido diferente bala e  mala  sábia, sabia e  sabiá e  aqueles que permitem  reconhecer uma  mensagem  igual através de  realizações  individuais voz, pronúncia,  entoação.
+A palavra fonologia é formada pelos elementos gregos fono som, voz e log, logia estudo, conhecimento.
+Significa literalmente estudo dos sons ou estudo dos sons da voz.
+O homem, ao falar, emite sons.
+Cada indivíduo tem uma maneira própria de realizar esses sons no ato da fala.
+As particularidades na pronúncia de cada falante são estudadas pela fonética.
+Dá se o nome de fonema ao menor elemento sonoro capaz de estabelecer uma distinção de significado entre as palavras.
+O fonema é constituído por imagens acústicas e sonoras, que nos permitem distinguir uma palavra da outra.
+Cada um dos segmentos sonoros refere se a um dado de nossa língua.
+Enquanto falantes do português, guardamo los em nossa memória e, quando necessário, colocamo los em prática.
+Esses fonemas são representados da seguinte forma u, b, a, v, e assim por diante.
+letra é a reprodução gráfica de um fonema.
+A fonética é o ramo da Linguística que estuda os sons produzidos pela fala humana.
+Essa área procura estudar todos os sons que os seres humanos são capazes de produzir durante a fala, de maneira que todo som produzido durante a fala é importante para a fonética.
+Em nosso idioma todas as letras têm pronúncias específicas, que dependem do seu posicionamento em uma palavra, por exemplo.
+ 
+A fonologia é um ramo da linguística que estuda os elementos fónicos, tendo em conta o seu valor distintivo e funcional.
+A fonética trata de estudar a natureza acústica e fisiológica dos sons, ao passo que a fonologia descreve o modo mediante o qual os sons funcionam a um nível abstracto ou mental.
+Os especialistas chamam de pares mínimos às palavras opostas, isto é, com significados diferentes, que apenas diferem uma da outra num único som.
+Dois pares mínimos diferem na sua representação fonémica subjacente em pelo menos um fonema.
+A título de exemplo, citaremos as palavras rasa e casa, ou ainda vaca e faca.
+
+2. # o_que_e_morfologia
+Morfologia é a parte da gramática da língua que estuda os morfemas.
+Em linguística, Morfologia é o estudo da estrutura, da formação e da classificação das palavras.
+A peculiaridade da morfologia é estudar as palavras olhando para elas isoladamente e não dentro da sua participação na frase ou período.
+A morfologia está agrupada em dez classes, denominadas classes de palavras ou classes gramaticais.
+Uma dica sobre morfologia! Sempre que lhe for proposto a análise morfológica de uma oração, pense nas palavras sozinhas, analisadas uma a uma, como se fosse a única.
+Na morfologia lembrese sempre das famosas dez classes gramaticais.
+São elas Substantivo, Artigo, Adjetivo, Numeral, Pronome, Verbo, Advérbio, Preposição, Conjunção e Interjeição.
+O significado da palavra morfologia remete à sua origem grega morphe forma e logía estudo.
+O termo morfologia vem da palavra morfema.
+Morfema, de acordo com a definição do dicionário Aurélio, é o elemento que confere o aspecto gramatical ao semantema, relacionando o na oração e delimitando sua função e seu significado.
+Na língua portuguesa, a morfologia é uma parte da linguística que estuda as estruturas e ou as formação das palavras.
+ Do grego, a palavra morfologia corresponde a união dos termos morfo forma e logia estudo.
+Morfologia é o estudo da estrutura, formação, classificação e flexão das palavras.
+Para concretizar seus objetivos, a morfologia considera as palavras isoladamente, fora do contexto de qualquer frase, oração ou período.
+O morfema é uma unidade formal na morfologia, um fragmento da palavra que traz sentido a ela.
+Vogais temáticas são morfemas que, de modo semelhante às desinências, também localizam se após o radical.
+As funções morfológicas é exatamente juntar ao radical, formando um tema.
+O estudo da gramática normativa da língua portuguesa é amplo e, não raro, bastante complicado para os falantes do nosso idioma.
+ Durante os anos escolares, estudamos uma série de regras e exceções que devem ser apreendidas, a fim de falarmos e escrevermos corretamente, de acordo com a norma culta padrão da língua.
+Na análise morfológica, estudamos a estrutura e a classificação das palavras em função do seu uso.
+ Assim sendo, as classes gramaticais substantivo, verbo, advérbio, pronome, numeral, preposição, conjunção, interjeição, artigo e adjetivo são colocadas em evidência.
+Na análise morfológica, cada palavra será analisada separadamente
+ É importante não confundir este tipo de análise com a análise sintática.
+ Na análise sintática, a palavra é estudada em relação às outras que se encontram na mesma oração
+Resumidamente, podemos afirmar que, na oração, uma palavra exerce duas funções a morfológica, que considera a sua classe gramatical substantivo, adjetivo, numeral, pronome, etc.
+A sintática, que analisa a palavra em relação a outros termos da oração, podendo desempenhar vários papéis sujeito oculto, objeto indireto, predicativo do objeto, etc.
+A gramática descritiva é o estudo dos mecanismos referentes ao funcionamento de uma língua em um contexto, observandose o tempo e a interação entre os falantes.
+ Dessa maneira, a gramática analisa e descreve, de acordo com a definição de uso padrão e culto, as normas de funcionamento, a estrutura e a configuração formal que caracterizam uma língua.
+A morfologia é a parte da gramática que estuda as palavras de forma isolada, sem estarem necessariamente inseridas num contexto frásico.
+A análise morfológica é, assim, a análise de cada uma das palavras de uma oração, que são classificadas de forma individual, conforme a classe gramatical a que pertencem.
+Em se tratando de ambos os temas, indiscutivelmente revelam sua extrema importância.
+Estando, portanto, aptos a integrarem os nossos conhecimentos, uma vez que se relacionam a duas partes relevantes da gramática  à morfologia e à sintaxe.
+Consultando a gramática, descobrimos que dentre as partes que a constituem há uma que, por excelência,  permitenos tornar conhecedores da forma como se estruturam as palavras, levando em conta aspectos específicos, como é caso das flexões, por exemplo.
+ Estamos fazendo referência à morfologia, obviamente, aquela responsável por nos apresentar acerca das dez classes gramaticais.
+Em se tratando delas, das classes gramaticais, um dos aspectos que lhes são inerentes diz respeito à flexão e não flexão das palavras, que, por sua vez, traduz os nossos objetivos ao travar essa importante discussão, por isso, iremos falar um pouco mais acerca das palavras variáveis e das palavras invariáveis.
+ Cabe, portanto, ressaltar que as palavras variáveis são aquelas que sofrem variações em sua forma, o que resulta nas chamadas desinências nominais de gênero e de número, bem como nas desinências verbais, de modo, tempo,  número e pessoa.
+Assim, ao revelarmos acerca das desinências nominais, já que estamos fazendo referência à morfologia, equivale afirmar que elas se aplicam às classes gramaticais representadas pelo substantivo, artigo, adjetivo, pronome e numeral, haja vista que se classificam, gramaticalmente dizendo, como nomes.
+A língua portuguesa, assim como todas as outras línguas do mundo, é articulada.
+ Isso significa dizer que os enunciados que os falantes criam não são uma coisa só, indivisível, mas sim que eles podem ser desmembrados em unidades menores.
+Nesse sentido, uma oração é um conjunto de palavras, uma palavra é um conjunto de morfemas e os morfemas são um conjunto de sons.
+ Há áreas da linguística responsáveis pelo estudo de cada uma dessas relações.
+Neste artigo, trataremos do estudo da combinação de morfemas para a formação de unidades maiores palavras.
+ Trataremos, portanto, da morfologia.
+Morfologia Para o falante, a palavra é identificada como uma unidade formal da linguagem que, sozinha ou associada a outras, pode constituir um enunciado
+ Para o linguista não é tão simples caracterizar a entidade que representa a primeira articulação da linguagem, a qual se manifesta por meio de unidades significativas.
+Morfologia é o estudo da forma.
+ O dicionário Houaiss da Língua Portuguesa 2001 apresenta como primeiro significado de morfologia estudo da forma, da configuração, da aparência externa da matéria.
+ O termo começou a ser utilizado na linguística no século XIX.
+ O estudo comparativo das línguas desenvolvido no século XIX permitiu que August von Schegel  formulasse uma tipologia morfológica, reorganizada por August Schleicher, segundo a qual todas as línguas se distribuíram em três tipos aisolantes todas as palavras são raízes, as mesmas não podem ser segmentadas em elementos menores, portadoras de informação gramatical e ou significado lexical.
+estudo da forma, da configuração, da aparência externa da matéria.
+estudo da configuração e da estrutura externa de um órgão ou ser vivo.
+parte da gramática que estuda as classes de palavras, seus paradigmas de flexões com suas exceções flexionismo.
+estudo da constituição das palavras e dos processos pelos quais elas são construídas a partir de suas partes componentes, os morfemas.
+Em linguística, Morfologia é o estudo da estrutura, da formação e da classificação das palavras.
+ A peculiaridade da morfologia é estudar as palavras olhando.
+a morfologia da gramática da língua portuguesa, quais os tipos de palavras, funções, exemplos, entre outras informações.
+A Morfologia é o estudo a respeito da estrutura, formação e classificação das palavras.
+Estudar Morfologia significa estudar, isoladamente, as classes das palavras.
+Morfologia entenda tudo sobre o tema, as derivações, exemplos e muito mais.
+Morfologia e conhecer um pouco mais a respeito dos estudos gramaticais e suas partes.
+A Morfologia estuda os aspectos das palavras, desde origem até às suas formas de flexão.
+a morfologia é uma parte da linguística que estuda as estruturas eou as formação das palavras.
+Essa parte da gramática da Língua Portuguesa se ocupa da análise da estrutura e da formação das palavras e as categoriza em dez classes.
+Pela Morfologia são, assim, chamadas de Classes de Palavras, sendo que substantivo, verbo, adjetivo, pronome, artigo, numeral apresentam variações, enquanto proposição, conjunção, interjeição e advérbio são invariáveis.
+Na língua portuguesa, a morfologia é uma parte da linguística que estuda as estruturas eou as formação das palavras do grego, a palavra morfologia corresponde a união dos termos morfo forma e logia estudo.
+Do grego, a palavra morfologia corresponde a união dos termos morfo forma e logia estudo.
+De maneira geral, a morfologia estuda a origem, as derivações e as flexões das palavras, expressas, na língua portuguesa, por dez classes morfológicas ou gramaticais de acordo com a função de cada.
+A morfologia classifica as palavras em
+palavras variáveis substantivo, adjetivo, pronome, numeral, artigo e verbo que podem variar em gênero masculino e feminino, número singular e plural e grau aumentativo e diminutivo
+palavras invariáveis preposição, conjunção, interjeição e advérbio.
+Uma das classes da morfologia é os substantivos nomeiam os seres em geral sendo classificados em substantivos simples, composto, concreto, abstrato, primitivo, derivado, coletivo, comum e próprio.
+Uma das classes da morfologia é  Adjetivos atribuem qualidades e estados aos seres sendo classificados em adjetivos simples, composto, primitivo e derivado.
+Uma das classes da morfologia é  Pronomes acompanham os substantivos de maneira que podem substituílos são classificados em pronomes pessoais caso reto e caso oblíquo, possessivos, demonstrativos, tratamento, indefinidos, relativos, interrogativos.
+Uma das classes da morfologia é  Numerais determinam a quantidade de tudo que existe sendo classificados em cardinais, ordinais, fracionários, coletivos e multiplicativos.
+Uma das classes da morfologia é  Artigos determinam o número e o gênero das palavras sendo classificados em artigo definido e indefinido.
+Verbos indicam ações, estado ou fenômeno sendo classificados em verbos regulares e irregulares.
+Uma das classes da morfologia é  Preposições conectam dois termos da oração por meio de uma relação de subordinação.
+ Dessa maneira, conforme a circunstância estabelecida, são classificadas em preposição lugar, modo, tempo, distância, causa, instrumento e finalidade.
+Uma das classes da morfologia é  Conjunções conectam dois termos semelhantes gramaticalmente, sendo classificados em conjunção coordenativa aditivas, adversativas, alternativas, conclusivas e explicativas e conjunção subordinativa integrantes, causais, comparativas, concessivas, condicionais, conformativas, consecutivas, temporais, finais e proporcionais.
+Uma das classes da morfologia é  Interjeições indicam emoções, sentimentos, sensações e estado de espírito sendo classificadas em interjeições de advertência, saudação, ajuda, afugentamento, alegria, tristeza, medo, alívio, animação, aprovação, desaprovação, concordância, desejo, desculpa, dúvida, espanto, contrariedade.
+Uma das classes da morfologia é  Advérbios modificam um verbo, um adjetivo ou outro advérbio sendo classificados de acordo com a circunstância que expressam modo, intensidade, lugar, tempo, negação, afirmação, dúvida.
+Note que a morfologia é um termo utilizado em outras áreas por exemplo, na biologia morfologia vegetal, morfologia animal, etc, porém na gramática é  o estudo da estrutura, da formação e da classificação das palavras.
+A morfologia é o estudo da estrutura e da formação das palavras.
+ A Análise morfológica analisa a classe gramatical dos elementos que formam um enunciado linguístico individualmente, sem que haja ligação entre eles.
+São classes gramaticais substantivo, artigo, adjetivo, numeral, pronome, verbo, advérbio, preposição, conjunção e interjeição.
+A morfologia é o oposto A análise sintática, por sua vez, analisa a função e a ligação de cada elemento que forma um enunciado linguístico.
+Assim, a análise morfossintática analisa os elementos do mesmo enunciado linguístico sintática e morfologicamente.
+Interjeição é uma das classes estudadas pela morfologia
+É a palavra que exprime emoções e sentimentos
+As interjeições podem ser classificadas em
+Advertência  Calma!, Devagar!, Sentido!
+Saudação  Alô!, Oi!, Tchau!
+Ajuda  Ei!, Ô!, Socorro!
+Afugentamento  Fora!, Sai! Xô!
+Alegria  Eba!, Uhu! Viva!
+Tristeza  Oh!, Que pena!, Ui!
+Medo  Credo!, Cruzes!, Jesus!
+Alívio  Arre!, Uf!, Ufa!
+Animação  Coragem!, Força!, Vamos!
+Aprovação  Bis!, Bravo!, Isso!
+Desaprovação  Chega!, Francamente! Livra!,
+Concordância Certo!, Claro!, Ótimo!
+Desejo  Oxalá!, Quisera!, Tomara!
+Desculpa  Desculpa!, Opa!, Perdão!
+Dúvida  Hã?, Hum?, Ué!
+Espanto  Caramba!, Oh!, Xi!,
+Contrariedade  Credo!, Droga!, Porcaria!.
+uma prática muito utilizada é analisar morfologicamente.
+A Morfossintaxe é a análise feita às orações em termos morfológicos e em termos sintáticos.
+A análise morfológica analisa as palavras de uma oração individualmente, ou seja, independentemente da sua ligação com as outras palavras.
+Analisa, individualmente, as classes de palavras, que são substantivo, artigo, adjetivo, numeral, pronome, verbo, advérbio, preposição, conjunção e interjeição.
+Em termos gerais, a Morfologia é o estudo a respeito da estrutura, da formação e da classificação das palavras.
+O estudo das classes morfológicas, também denominadas de classes de palavras ou classes gramaticais, pode ser dividido.
+ O objetivo da Morfologia é estudar as palavras isoladas e não a partir da sua função na frase ou período, como ocorre com a Sintaxe.
+O termo morfologia vem da palavra morfema.
+ Morfema, de acordo com a definição do dicionário Aurélio, é o elemento que confere o aspecto gramatical ao semantema, relacionandoo na oração e delimitando sua função e seu significado.
+Semantema, por sua vez, é o elemento que encerra o significado de uma palavra.
+ Exemplo agrad, no caso de agradar, agradável, agradecido, agrado, agradavelmente.
+É definido também como o radical da palavra, a raiz, a parte imutável da palavra.
+Logo, o termo que encerra uma palavra ou sucede o seu radical é o responsável por nos informar a respeito de gênero, número, tempo, modo, pessoa e classe gramatical.
+Partindo dessas informações, podemos concluir que Morfologia é a parte da gramática da língua que estuda os morfemas.
+Os morfemas são responsáveis por nos informar
+o gênero masculino ou feminino de uma palavra.
+O significado da palavra morfologia remete à sua origem grega morphe forma e logía estudo.Isso significa que, dentro da abordagem gramatical, esse ramo do conhecimento vai analisar, especificadamente, a estrutura, o formato e a classificação das palavras.
+Existe uma singularidade em linguística relacionada à classificação morfológica ela baseiase na observação isolada das palavras e não no contexto delas na frase.
+Podemos considerar a morfologia como a primeira ferramenta de análise da Gramática que observa os fonemas conectados a um significado léxico, quer dizer, a palavra.
+morfologia estudo individualizado das palavras de uma oração.
+o estudo em morfologia é baseado nas características das palavras individualmente.
+a análise morfológica é a classificação gramatical de cada elemento em particular que compõe o enunciado em questão, lembrando que deve haver ligação entre eles.
+é importante não confundir análise sintática e morfológica, afinal são itens bem diferentes Lembrese que análise sintática é a observação da palavra levando em consideração o seu conjunto na oração.
+a análise morfológica acontece determinando as classes de palavras de acordo com suas características e funções comuns.
+as classes gramaticais são descritas em substantivo, adjetivo, artigo, pronome, verbo, advérbio, conjunção, preposição, numeral, interjeição.
+a morfologia da língua portuguesa abarca origens, derivações e tipos de flexão de cada palavra de todas as classes morfológicas citadas anteriormente.
+Para a realização de uma análise morfológica, o primeiro critério utilizado é de acordo com a variação que uma palavra pode apresentar.
+Os elementos morfológicos considerados variáveis são aqueles que se modificam segundo os critérios de gênero, número e, em alguns casos, grau.
+Morfologia substantivo
+Palavra utilizada para nomear pessoas, objetos, fenômenos e seres em geral.
+Morfologia verbo
+Palavra que incita uma ação, representa um estado ou aponta um fenômeno da natureza.
+Morfologia adjetivo
+Palavra que qualifica um substantivo.
+Morfologia pronome
+Palavra que substitui ou acompanha o substantivo.
+Morfologia artigo
+Palavra que antecede o substantivo para determinálo ou indeterminálo na oração.
+Morfologia numeral
+Palavra que exerce função de quantificar os seres ou posicionálos em uma determinada ordem.
+Morfologia preposição
+Palavra que conecta dois termos, elucidando a relação existente entre eles.
+Morfologia conjunção
+Palavra que conecta dois termos da mesma oração que exercem a mesma função sintática ou de duas orações diferentes, estabelecendo relação de sentido entre elas.
+Morfologia advérbio
+Palavra que modifica um verbo, um adjetivo ou outro advérbio.
+Morfologia interjeição
+Palavra que determina uma ação emotiva.
+Morfologia interjeição
+Palavra que determina uma ação emotiva Exemplo
+Meus Deus! Não faça isso!.
+Morfologia interjeição
+Palavra que determina uma ação emotiva Exemplo
+Cuidado! Vai dar errado!.
+Morfologia interjeição
+Palavra que determina uma ação emotiva Exemplo
+Ai! Bati de cara na parede!.
+Morfologia advérbio
+Palavra que modifica um verbo, um adjetivo ou outro advérbio Exemplo
+Ele corre rapidamente.
+Palavra que modifica um verbo, um adjetivo ou outro advérbio Exemplo
+Estamos muito felizes com a notícia.
+Palavra que modifica um verbo, um adjetivo ou outro advérbio Exemplo
+Elisa não gosta de conversa fiada.
+Morfologia conjunção
+Palavra que conecta dois termos da mesma oração que exercem a mesma função sintática ou de duas orações diferentes, estabelecendo relação de sentido entre elas Exemplo Ela gritou quando viu a barata.
+De acordo com a morfologia Podemos dividir os pronomes em seis classes de acordo com a sua função pronomes pessoais, pronomes possessivos, pronomes demonstrativos, pronomes interrogativos, pronomes relativos, pronomes indefinidos.
+estudo da constituição das palavras e dos processos pelos quais elas são construídas a partir de suas partes componentes, os morfemas.
+parte da gramática que estuda as classes de palavras, seus paradigmas de flexões com suas exceções flexionismo.
+A gramática descritiva é o estudo dos mecanismos referentes ao funcionamento de uma língua em um contexto, observandose o tempo e a interação entre os falantes.
+Dessa maneira, a gramática analisa e descreve, de acordo com a definição de uso padrão e culto, as normas de funcionamento, a estrutura e a configuração formal que caracterizam uma língua.
+Dentro deste estudo, a morfologia é considerada como a primeira articulação da gramática, na qual o vocábulo formal é o objeto de análise.
+Com isso, a morfologia é a primeira articulação gramatical que estuda os segmentos fônicos associados a uma significação léxica ou seja a palavra e suas formas.
+ Assim, a morfologia sistematiza em classes as unidades mínimas dotadas de sentido de acordo com características e funções comuns entre elas.
+a morfologia sistematiza em classes as unidades mínimas dotadas de sentido de acordo com características e funções comuns entre elas As classes gramaticais descritas são
+Substantivo, Adjetivo, Artigo, Pronome, Numeral, Verbo, Advérbio, Conjunção, Preposição.
+De acordo com Joaquim Matoso Camara Júnior no livro Estrutura da Língua Portuguesa o segmento fônico se associa a uma significação gramatical situandose na primeira articulação da língua a morfológica, gerando o vocábulo formal.
+ O que se denomina de vocábulo é a palavra ou ainda a unidade mórfica por si só.
+ Ao estudar morfologia, analisase, então, os morfemas.
+ Os morfemas constituemse por serem unidades de som e conteúdos menores do que a palavra.
+ São unidades significativas mínimas, porque possuem significado, mas nem sempre funcionam de forma independente, precisam estar conectadas a outras.
+ Exemplo o s que marca o plural é uma unidade com significado de número, mas não faz sentido livremente.
+ O vocábulo carros pode gerar outros, como carroça, carruagem, carreta.
+ Enquanto o morfema s que marca o plural na palavra só funciona ligado a outros morfemas com sentido completo.
+
+Assim, a gramática identifica dois tipos de morfemas
+Morfemas lexicais são as formas livres carro.
+Morfemas gramaticais possuem algum significado mas só existem presos s como marca de plural in infeliz dentre outros.
+O critério mórfico estabelece a separação dos vocábulos por espaços em branco, registrando na ortografia as formas independentes.
+ As palavras constituemse por unidades menores morfemas, ao passo que a frase se compõe por palavras, e estas são graficamente separadas.
+A análise morfológica identifica a classe de cada palavra e verifica suas combinações dentro do texto Algumas classes podem ocupar o papel de outra em determinada construção frasal Por exemplo, a classe dos nomes os substantivos e os adjetivos podem se intercambiar.
+A morfologia é o campo mais estudado na Língua Portuguesa, sendo determinante para melhor compreensão e escrita.
+Consiste numa das áreas da linguística responsável por estudar as estruturas eou formação das palavras.
+ Em outras palavras, a morfologia significa, estudo da forma estudo da forma da palavra.
+São 10 as classes morfológicas ou gramaticais estudadas, sendo que cada uma delas possui uma função específica na estruturação das palavras.
+As classes morfológicas são classificadas em Palavras variáveis e palavras invariáveis.
+As classes morfológicas são classificadas em Palavras variáveis como Artigo, Substantivo, Verbo, Adjetivo, Pronome, Numeral.
+As classes morfológicas são classificadas em Palavras invariáveis como Advérbio, Preposição, Interjeição, Conjunção.
+Morfologia é a parte da gramática da língua que estuda os morfemas.
+Em linguística, Morfologia é o estudo da estrutura, da formação e da classificação das palavras.
+ A peculiaridade da morfologia é estudar as palavras olhando para elas isoladamente e não dentro da sua participação na frase ou período.
+ A morfologia está agrupada em dez classes, denominadas classes de palavras ou classes gramaticais.
+São elas Substantivo, Artigo, Adjetivo, Numeral, Pronome, Verbo, Advérbio, Preposição, Conjunção e Interjeição.
+O significado da palavra morfologia remete à sua origem grega morphe forma e logía estudo.
+O termo morfologia vem da palavra morfema.
+
+ Morfema, de acordo com a definição do dicionário Aurélio, é o elemento que confere o aspecto gramatical ao semantema, relacionando o na oração e delimitando sua função e seu significado.
+Na língua portuguesa, a morfologia é uma parte da linguística que estuda as estruturas e ou as formação das palavras.
+ Do grego, a palavra morfologia corresponde a união dos termos morfo forma e logia estudo.
+Morfologia é o estudo da estrutura, formação, classificação e flexão das palavras.
+Para concretizar seus objetivos, a morfologia considera as palavras isoladamente, fora do contexto de qualquer frase, oração ou período.
+O morfema é uma unidade formal na morfologia, um fragmento da palavra que traz sentido a ela.
+Vogais temáticas são morfemas que, de modo semelhante às desinências, também localizam se após o radical.
+As funções morfológicas é exatamente juntar ao radical, formando um tema.
+O estudo da gramática normativa da língua portuguesa é amplo e, não raro, bastante complicado para os falantes do nosso idioma.
+ Durante os anos escolares, estudamos uma série de regras e exceções que devem ser apreendidas, a fim de falarmos e escrevermos corretamente, de acordo com a norma culta padrão da língua.
+Na análise morfológica, estudamos a estrutura e a classificação das palavras em função do seu uso.
+ Assim sendo, as classes gramaticais substantivo, verbo, advérbio, pronome, numeral, preposição, conjunção, interjeição, artigo e adjetivo são colocadas em evidência.
+Na análise morfológica, cada palavra será analisada separadamente.
+ É importante não confundir este tipo de análise com a análise sintática.
+ Na análise sintática, a palavra é estudada em relação às outras que se encontram na mesma oração.
+Resumidamente, podemos afirmar que, na oração, uma palavra exerce duas funções a morfológica, que considera a sua classe gramatical substantivo, adjetivo, numeral, pronome, etc.
+A morfologia morfo e logia são provenientes do grego transliterado morphe que significa forma e logía que significa estudo trata de um modo geral do estudo da estrutura e formação das palavras.
+Ao estudar morfologia, estudamos a formação de palavras através de elementos morfológicos ou mórficos,5 que são as unidades que formam uma palavra.
+ Alguns elementos morfológicos são radical, tema, vogal temática, vogal ou consoante de ligação, afixo, desinência nominal ou verbal.
+Em linguística, no nível de análise morfológica encontramos duas unidades formais a palavra e o morfema.
+ Uma das questões centrais no estudo da morfologia é decidir se a abordagem será pela perspectiva do morfema ou se a partir da palavra, da formação e da classificação das palavras.
+ A peculiaridade da morfologia é estudar as palavras olhando para elas isoladamente e não dentro da sua participação na frase ou período.
+ A Gramática tradicional fez opção clara pela abordagem a partir da perspectiva da palavra, tanto que a morfologia tradicional é centrada no estudo das classes de palavras.
+ Alguns linguistas sugerem que a abordagem a partir dos morfemas é mais sensata, vistas as dificuldades da percepção da morfologia em algumas palavras.
+ Apesar de em algumas situações serem mais perceptíveis.
+A sintática, que analisa a palavra em relação a outros termos da oração, podendo desempenhar vários papéis sujeito oculto, objeto indireto, predicativo do objeto, etc.
+A gramática descritiva é o estudo dos mecanismos referentes ao funcionamento de uma língua em um contexto, observandose o tempo e a interação entre os falantes.
+ Dessa maneira, a gramática analisa e descreve, de acordo com a definição de uso padrão e culto, as normas de funcionamento, a estrutura e a configuração formal que caracterizam uma língua.
+A morfologia é a parte da gramática que estuda as palavras de forma isolada, sem estarem necessariamente inseridas num contexto frásico.
+A análise morfológica é, assim, a análise de cada uma das palavras de uma oração, que são classificadas de forma individual, conforme a classe gramatical a que pertencem.
+Em se tratando de ambos os temas, indiscutivelmente revelam sua extrema importância.
+Estando, portanto, aptos a integrarem os nossos conhecimentos, uma vez que se relacionam a duas partes relevantes da gramática  à morfologia e à sintaxe.
+Consultando a gramática, descobrimos que dentre as partes que a constituem há uma que, por excelência,  permitenos tornar conhecedores da forma como se estruturam as palavras, levando em conta aspectos específicos, como é caso das flexões, por exemplo.
+ Estamos fazendo referência à morfologia, obviamente, aquela responsável por nos apresentar acerca das dez classes gramaticais.
+Em se tratando delas, das classes gramaticais, um dos aspectos que lhes são inerentes diz respeito à flexão e não flexão das palavras, que, por sua vez, traduz os nossos objetivos ao travar essa importante discussão, por isso, iremos falar um pouco mais acerca das palavras variáveis e das palavras invariáveis.
+ Cabe, portanto, ressaltar que as palavras variáveis são aquelas que sofrem variações em sua forma, o que resulta nas chamadas desinências nominais de gênero e de número, bem como nas desinências verbais, de modo, tempo,  número e pessoa.
+Assim, ao revelarmos acerca das desinências nominais, já que estamos fazendo referência à morfologia, equivale afirmar que elas se aplicam às classes gramaticais representadas pelo substantivo, artigo, adjetivo, pronome e numeral, haja vista que se classificam, gramaticalmente dizendo, como nomes.
+A língua portuguesa, assim como todas as outras línguas do mundo, é articulada.
+Isso significa dizer que os enunciados que os falantes criam não são uma coisa só, indivisível, mas sim que eles podem ser desmembrados em unidades menores.
+São elas Substantivo, Artigo, Adjetivo, Numeral, Pronome, Verbo, Advérbio, Preposição, Conjunção e Interjeição.
+O significado da palavra morfologia remete à sua origem grega morphe forma e logía estudo.
+O termo morfologia vem da palavra morfema.
+ Morfema, de acordo com a definição do dicionário Aurélio, é o elemento que confere o aspecto gramatical ao semantema, relacionando o na oração e delimitando sua função e seu significado.
+Na língua portuguesa, a morfologia é uma parte da linguística que estuda as estruturas e ou as formação das palavras.
+ Do grego, a palavra morfologia corresponde a união dos termos morfo forma e logia estudo.
+Morfologia é o estudo da estrutura, formação, classificação e flexão das palavras.
+Para concretizar seus objetivos, a morfologia considera as palavras isoladamente, fora do contexto de qualquer frase, oração ou período.
+O morfema é uma unidade formal na morfologia, um fragmento da palavra que traz sentido a ela.
+Vogais temáticas são morfemas que, de modo semelhante às desinências, também localizam se após o radical.
+As funções morfológicas é exatamente juntar ao radical, formando um tema.
+O estudo da gramática normativa da língua portuguesa é amplo e, não raro, bastante complicado para os falantes do nosso idioma.
+ Durante os anos escolares, estudamos uma série de regras e exceções que devem ser apreendidas, a fim de falarmos e escrevermos corretamente, de acordo com a norma culta padrão da língua.
+Na análise morfológica, estudamos a estrutura e a classificação das palavras em função do seu uso.
+ Assim sendo, as classes gramaticais substantivo, verbo, advérbio, pronome, numeral, preposição, conjunção, interjeição, artigo e adjetivo são colocadas em evidência.
+Na análise morfológica, cada palavra será analisada separadamente.
+ É importante não confundir este tipo de análise com a análise sintática.
+ Na análise sintática, a palavra é estudada em relação às outras que se encontram na mesma oração.
+Resumidamente, podemos afirmar que, na oração, uma palavra exerce duas funções a morfológica, que considera a sua classe gramatical substantivo, adjetivo, numeral, pronome, etc.
+A morfologia morfo e logia são provenientes do grego transliterado morphe que significa forma e logía que significa estudo trata de um modo geral do estudo da estrutura e formação das palavras.
+Ao estudar morfologia, estudamos a formação de palavras através de elementos morfológicos ou mórficos,5 que são as unidades que formam uma palavra.
+ Alguns elementos morfológicos são radical, tema, vogal temática, vogal ou consoante de ligação, afixo, desinência nominal ou verbal.
+Em linguística, no nível de análise morfológica encontramos duas unidades formais a palavra e o morfema.
+ Uma das questões centrais no estudo da morfologia é decidir se a abordagem será pela perspectiva do morfema ou se a partir da palavra, da formação e da classificação das palavras.
+ A peculiaridade da morfologia é estudar as palavras olhando para elas isoladamente e não dentro da sua participação na frase ou período.
+ A Gramática tradicional fez opção clara pela abordagem a partir da perspectiva da palavra, tanto que a morfologia tradicional é centrada no estudo das classes de palavras.
+ Alguns linguistas sugerem que a abordagem a partir dos morfemas é mais sensata, vistas as dificuldades da percepção da morfologia em algumas palavras.
+ Apesar de em algumas situações serem mais perceptíveis.
+A sintática, que analisa a palavra em relação a outros termos da oração, podendo desempenhar vários papéis sujeito oculto, objeto indireto, predicativo do objeto, etc.
+A gramática descritiva é o estudo dos mecanismos referentes ao funcionamento de uma língua em um contexto, observandose o tempo e a interação entre os falantes.
+ Dessa maneira, a gramática analisa e descreve, de acordo com a definição de uso padrão e culto, as normas de funcionamento, a estrutura e a configuração formal que caracterizam uma língua.
+A morfologia é a parte da gramática que estuda as palavras de forma isolada, sem estarem necessariamente inseridas num contexto frásico.
+A análise morfológica é, assim, a análise de cada uma das palavras de uma oração, que são classificadas de forma individual, conforme a classe gramatical a que pertencem.
+Em se tratando de ambos os temas, indiscutivelmente revelam sua extrema importância.
+Estando, portanto, aptos a integrarem os nossos conhecimentos, uma vez que se relacionam a duas partes relevantes da gramática  à morfologia e à sintaxe.
+Consultando a gramática, descobrimos que dentre as partes que a constituem há uma que, por excelência,  permitenos tornar conhecedores da forma como se estruturam as palavras, levando em conta aspectos específicos, como é caso das flexões, por exemplo.
+  Estamos fazendo referência à morfologia, obviamente, aquela responsável por nos apresentar acerca das dez classes gramaticais.
+Em se tratando delas, das classes gramaticais, um dos aspectos que lhes são inerentes diz respeito à flexão e não flexão das palavras, que, por sua vez, traduz os nossos objetivos ao travar essa importante discussão, por isso, iremos falar um pouco mais acerca das palavras variáveis e das palavras invariáveis.
+ Cabe, portanto, ressaltar que as palavras variáveis são aquelas que sofrem variações em sua forma, o que resulta nas chamadas desinências nominais de gênero e de número, bem como nas desinências verbais, de modo, tempo,  número e pessoa.
+Assim, ao revelarmos acerca das desinências nominais, já que estamos fazendo referência à morfologia, equivale afirmar que elas se aplicam às classes gramaticais representadas pelo substantivo, artigo, adjetivo, pronome e numeral, haja vista que se classificam, gramaticalmente dizendo, como nomes.
+Na morfologia, há classes de palavras variáveis substantivos, adjetivos, verbos, pronomes, numerais e artigos e invariáveis advérbios, conjunções, interjeições e preposições.
+Na morfologia existem vários tipos de formação, entre estes processos temos a formação por derivação por composição, onde palavras são formadas por aglutinação ou justaposição por redução ou abreviação por empréstimos lexicais na criação de neologismos.
+Morfologia é a parte da gramática que estuda as palavras de acordo com a classe gramatical a que ela pertence.
+Quando nos referimos às classes gramaticais, logo sabemos que se refere à dez classes, que são substantivos, artigos, pronomes, verbos, adjetivos, conjunções, interjeições, preposições, advérbios e numerais.
+
+3.#o_que_e_ortoepia
+
+A ortoepia é o ramo da Linguística que estuda os fonemas e sua correta pronúncia, assim como a entoação e o ritmo exato das palavras.
+Ortoépia designa um campo da gramática normativa que zela pela fala correta, ou seja, pela pronúncia das palavras segundo a norma padrão, sem acréscimo, eliminação nem troca de fonemas.
+A ortoepia, ou ortoépia, faz parte dos estudos da Fonologia, ramo da Linguística que estuda o sistema sonoro de um idioma.
+ A palavra ortoepia é oriunda da palavra grega ortoepos orto  correto e epos  palavra, sendo assim, ortoepia é o estudo da correta pronúncia das palavras
+ A ortoepia é responsável por fazer uma análise precisa dos fonemas, oferecendo aos falantes do idioma seu estudo fonético.
+A ortoepia ocupase não só da correta pronúncia dos fonemas, mas também do ritmo e entoação das palavras.
+ Para que a comunicação aconteça de maneira satisfatória, alguns elementos devem ser levados em consideração, como a pronúncia nítida de vogais e grupos vocálicos, evitando assim a omissão ou alteração dos fonemas de determinadas palavras, respeito ao timbre das vogais tônicas, bem como a pronúncia correta das consoantes.
+Quando as palavras não são pronunciadas de acordo com as regras da ortoepia, cometemos o que a gramática normativa denomina de cacoépia.
+ Já a correção da sílaba tônica recebe o nome de prosódia, também um elemento estudado pela Fonologia.
+ Os erros de ortoepia, ou seja, a cacoépia, são recorrentes na linguagem coloquial e podem acontecer por desconhecimento do falante sobre a norma culta.
+ Muitas vezes, esse descuido na modalidade oral pode contaminar a escrita, o que não é conveniente.
+Um bom exercício para treinar a ortoepia das palavras é dizêlas em voz alta e pausadamente, pois quando pronunciamos as palavras de maneira cautelosa, percebemos seus grafemas e fonemas.
+ Além disso, sempre que houver dúvida em relação à correta pronúncia das palavras, consulte um bons dicionários, pois esses oferecem não só o significado do verbete, mas também a transcrição fonética das palavras.
+Você pode treinar a ortoepia das palavras que foram elencadas na tabela, já que a pronúncia equivocada de tais vocábulos é frequente.
+ Lembrese de que não se trata apenas de uma adequação ao padrão culto da língua portuguesa, mesmo porque o contexto comunicacional sempre deve ser observado, mas em situações formais, é fundamental que você se comunique apropriadamente, certo?
+A ortoépia trata da pronúncia correta das palavras.
+ Quando as palavras são pronunciadas incorretamente, cometese cacoépia.
+É comum encontrarmos erros de ortoépia na linguagem popular, mais descuidada e com tendência natural para a simplificação.
+ guspe em vez de cuspe.
+ adevogado em vez de advogado.
+ estrupo em vez de estupro.
+ cardeneta em vez de caderneta.
+ peneu em vez de pneu.
+ abóbra em vez de abóbora.
+ prostar em vez de prostrar.
+A ortoépia ou ortoepia é a área da gramática que se ocupa da definição de normas sobre a pronúncia de palavras de uma língua.
+
+A prosódia se dedica ao estudo da emissão dos sons da fala, incluindo o acento pronúncia da sílaba tônica a entonação.
+Ambas  ortoépia e prosódia  estão muito relacionadas com a fonética e a fonologia.
+O erro de pronúncia, ou seja, a pronúncia irregular, diferente da prevista pela prosódia  chamase cacoépia
+A língua padrão prescreve qual será a sílaba tônica de uma palavra.
+ No entanto, é muito comum haver divergências entre a pronúncia efetivamente praticada no dia a dia e a prosódia recomendada pelos dicionários e gramáticas.
+Como exemplo, em contextos informais ou mesmo formais quase todos pronunciam duplex oxítona,carece de fontes embora dúplex paroxítona seja a prosódia indicada pela norma padrão.
+Quando ocorre um erro de prosódia, ou seja, a troca da posição da sílaba tônica, verificase o que é denominado silabada.
+ Em contextos formais, a norma padrão é exigida.
+Ortoépia é a correta pronúncia dos grupos fônicos.
+A ortoépia está relacionada com a perfeita emissão das vogais, a correta articulação das consoantes e a ligação de vocábulos dentro de contextos.
+Erros cometidos contra a ortoépia são chamados de cacoepia.
+pronunciar erradamente as vogais quanto ao timbre
+pronúncia correta, timbre fechado ê, ô omelete, alcova, crosta
+pronúncia errada, timbre aberto é, ó omelete, alcova, crosta.
+omitir fonemas cantar canta, trabalhartrabalha, amoramo, abóboraabóbra, prostrar prostar, reivindicarrevindicar.
+acréscimo de fonemas pneupeneu, freada freiada,bandeja bandeija.
+substituição de fonemas cutiacotia, cabeçalho cabeçário, bueiro boeiro.
+troca de posição de um ou mais fonemas caderneta cardeneta, bicarbonato bicabornato, muçulmano mulçumano.
+nasalização de vogais sobrancelha sombrancelha, mendigo mendingo, bugiganga bungiganga ou buginganga.
+pronunciar a crase A aula iria acabar às cinco horas.
+ A aula iria acabar àas cinco horas.
+A ortoépia e a prosódia são duas áreas na gramática responsáveis pela correta pronúncia das palavras, e por isso se relacionam bastante com a fonética e a fonologia.
+A Ortoépia, por sua vez, é o estudo que determina as normas que regem a pronúncia das palavras em uma determinada língua.
+É a ortoepia que trata das divergências entre a pronúncia de uma palavra no dia a dia, pelos falantes, abrangendo contextos formais e informais.
+
+Contudo, vale lembrar que os desvios na pronúncia, em contextos informais, na linguagem popular, são facilmente admitidos, porém em contextos formais são altamente reprovados.
+ a ortoépia trata dos casos de emissão incorreta de vogais, articulação imprópria de consoantes e timbre incorreto.
+ Estes desvios geralmente interferem na escrita, pois as pessoas têm tendência de escrever da mesma forma que falam.
+ Por exemplo, se uma pessoa pronuncia cabelereiro, quando for escrever esta palavra terá uma grande inclinação para grafála desta maneira, e não da forma correta que é cabeleireira.
+Ortoépia e prosódia são duas áreas da gramática, relacionadas com a fonologia e a fonética, que tratam da correta pronúncia e acentuação das palavras.
+A ortoépia se refere à correta articulação dos grupos vocálicos e dos fonemas consonantais, determinando as normas que guiam a pronúncia correta das palavras. Os erros de ortoépia são chamados de cacoépia.
+
+4. # o_que_e_prosodia
+A ortoépia e a prosódia são duas áreas na gramática responsáveis pela correta pronúncia das palavras, e por isso se relacionam bastante com a fonética e a fonologia.
+A prosódia trata da correta acentuação tônica das palavras.
+ A prosódia trata da correta acentuação tônica das palavras.
+ Cometer erro de prosódia é transformar uma palavra paroxítona em oxítona, ou uma proparoxítona em paroxítona etc.
+ rúbrica em vez de rubrica.
+ sútil em vez de sutil.
+ côndor em vez de condor.
+A prosódia está relacionada com a correta acentuação das palavras, tomando como padrão a língua considerada culta.
+Abaixo estão relacionados alguns exemplos de vocábulos que frequentemente geram dúvidas quanto à prosódia
+oxítonas cateter, Cister, condor, hangar, mister, negus, Nobel, novel, recém, refém, ruim, sutil, ureter.
+paroxítonas avaro, avito, barbárie, caracteres, cartomancia, ciclope, erudito, ibero, gratuito, ônix, poliglota, pudico, rubrica, tulipa.
+proparoxítonas aeródromo, alcoólatra, álibi, âmago,antídoto, elétrodo, lêvedo, protótipo, quadrúmano, vermífugo, zéfiro.
+Há algumas palavras cujo acento prosódico é incerto, oscilante, mesmo na língua culta.
+acrobata e acróbata  crisântemo e crisantemo Oceânia e Oceania réptil e reptil xerox e xérox e outras.
+Prosódia é uma palavra de origem grega, e significa o estudo do ritmo, da entonação e das demais propriedades acústicas relacionadas à fala, ou seja, aquelas que não podem ser identificadas na transcrição ortográfica.
+a prosódia que cuida da acentuação tônica das palavras.
+a prosódia trata dos casos de mudança na sílaba tônica.
+Ortoépia e prosódia são duas áreas da gramática, relacionadas com a fonologia e a fonética, que tratam da correta pronúncia e acentuação das palavras.
+A prosódia se refere à correta acentuação dos vocábulos, nomeadamente quanto à posição da silaba tônica.
+ É o estudo das propriedades acústicas associadas à fala que não são reconhecíveis no registro ortográfico.
+absurdo erradamente pronunciado abisurdo.
+advogado erradamente pronunciado adevogado.
+beneficente erradamente pronunciado beneficiente.
+calvície erradamente pronunciado calvice.
+cérebro erradamente pronunciado célebro.
+companhia erradamente pronunciado compania.
+freada erradamente pronunciado freiada.
+iogurte erradamente pronunciado iorgute.
+lagartixa erradamente pronunciado largatixa.
+mendigo erradamente pronunciado mendingo.
+óbvio erradamente pronunciado óbivio.
+propriedade erradamente pronunciado propiedade.
+próprio erradamente pronunciado própio.
+reivindicar erradamente pronunciado reinvindicar.
+retrógrado erradamente pronunciado retrógado.
+sobrancelha erradamente pronunciado sombrancelha.
+umbigo erradamente pronunciado imbigo.
+parte da gramática tradicional que se dedica às características da emissão dos sons da fala, como o acento e a entoação.
+está relacionada com os estudos de metrificação.
+estudo da acentuação vocabular.
+A prosódia ocupase da correta emissão de palavras quanto à posição da sílaba tônica, segundo as normas da língua culta.
+Pronúncia é o modo como a prosódia de uma palavra é realizada.
+é a parte da linguística que estuda a entonação, o ritmo.
+Prosódia é o emprego correto da acentuação tônica das palavras.
+Ela está ligada à oralidade.
+ um erro de prosódia pode transformar palavras.
+ Ao contrário da ortoépia é a correta pronúncia dos grupos fônicos.
+A prosódia é a parte da fonética que estuda a pronúncia correta das palavras.
+Quando confundimos a tonicidade das sílabas, cometemos uma silabada, só a prosódia poderá resolver.
+A prosódia está relacionada com a correta acentuação das palavras tomando como padrão a língua considerada.
+A prosódia está relacionada com a correta acentuação das palavras tomando como padrão a língua considerada .
+Prosódia e ortoépia são as áreas da gramática responsáveis pelo estudo da pronúncia correta das palavras.
+prosódia são duas áreas da gramática, relacionadas com a fonologia e a fonética, que tratam da correta pronúncia e acentuação das palavras.
+Prosódia É a parte da Fonologia que trata da acentuação tônica correta pronúncia dos fonemas.
+A prosódia é uma parte da gramática que incide sobre a pronúncia correta das palavras.
+A prosódia estuda a correta acentuação tônica das palavras na língua portuguesa.
+A  Prosódia que é um ramo da linguística.
+ prosódia fazem parte da gramática portuguesa.
+A prosódia é o oposto da ortoépia voltase para a pronúncia correta das palavras.
+Prosódia É o estudo da acentuação vocabular não das regras de acentuação, mas da adequada emissão das palavras quanto à posição da palavra.
+Parte da gramática normativa que trata da reta acentuação.
+Prosódia, segundo dicionários, quer dizer parte da gramática normativa que trata da correta acentuação dos vocábulos.
+A prosódia como instrumento de persuasão.
+A prosódia é uma área da linguística que estuda a fala e a emissão das palavras.
+A prosódia é uma área da linguística que estuda a fala e a emissão das palavras.
+ O objetivo da prosódia é garantir uma pronunciação correta das palavras quanto à posição da sílaba tônica.
+ Esta área tem como base a norma culta do idioma e avalia a pronúncia de diversos vocábulos que podem ser pronunciados com o acento prosódico deslocado ou incorreto.
+ Os erros prosódicos são chamados de silabadas.
+A prosódia se preocupa com a adequada acentuação tônica das palavras.
+Uma pessoa comete um erro de prosódia quando fala uma palavra paroxítona com acentuação oxítona, ou fala uma palavra proparoxítona como paroxítona.
+A prosódia é um ramo importante da linguística, pois ela investiga todas as propriedades fônicas da cadeia da fala e contribui para a correta interpretação do significado das palavras.
+Prosódia é a Pronúncia correta das palavras, principalmente no que se refere ao acento tônico.
+A prosódia do grego prosoidía  acento que se põe sobre as vogais é uma parte da ortoépia que é por sua vez parte da Fonética.
+Prosódia é a parte da Fonética que descreve a pronúncia das palavras usualmente aceita pela maioria dos falantes cultos.
+Prosódia é a parte da linguística que estuda a entonação, o ritmo, o acento da linguagem falada e demais atributos correlatos na fala.
+A prosódia ocupase da correta emissão de palavras quanto à posição da sílaba tônica, segundo as normas da língua culta.
+A prosódia descreve todas as propriedades acústicas da fala que não podem ser preditas pela transcrição ortográfica ou similar em resumo, é uma parte da fonética que trata da correta acentuação tônica das palavras.
+Prosódia é o emprego correto da acentuação tônica das palavras.
+ Ela está ligada à oralidade.
+Há casos em que um erro de prosódia pode transformar palavras oxítonas em paroxítonas ou uma proparoxítona em paroxítona.
+Por conta da prosódia pronunciar rúbrica e não rubrica, que é o correto.
+Os erros de prosódia são denominados silabada.
+Exemplo de prosódia Sútil errado, sutil correto.
+Exemplo de prosódia Côndor errado, condor correto.
+Exemplo de prosódia Interim errado, ínterim correto.
+Ao contrário da prosódia a ortoépia também trata da pronúncia das palavras, mas não no que respeita à acentuação tônica por exemplo mendingo em vez de mendigo, prazeiroso em vez de prazeroso, mantega em vez de manteiga.
+A prosódia é um ramo da ortoépia que estabelece regras para a posição da sílaba tônica das palavras aquela que é pronunciada com maior intensidade.
+A ortoépia e a prosódia são duas áreas na gramática responsáveis pela correta pronúncia das palavras, e por isso se relacionam bastante com a fonética e a fonologia.
+A prosódia trata da correta acentuação tônica das palavras.
+ A prosódia trata da correta acentuação tônica das palavras.
+ Cometer erro de prosódia é transformar uma palavra paroxítona em oxítona, ou uma proparoxítona em paroxítona etc.
+ rúbrica em vez de rubrica.
+ sútil em vez de sutil.
+ côndor em vez de condor.
+A prosódia está relacionada com a correta acentuação das palavras, tomando como padrão a língua considerada culta.
+Abaixo estão relacionados alguns exemplos de vocábulos que frequentemente geram dúvidas quanto à prosódia
+oxítonas cateter, Cister, condor, hangar, mister, negus, Nobel, novel, recém, refém, ruim, sutil, ureter.
+paroxítonas avaro, avito, barbárie, caracteres, cartomancia, ciclope, erudito, ibero, gratuito, ônix, poliglota, pudico, rubrica, tulipa.
+proparoxítonas aeródromo, alcoólatra, álibi, âmago,antídoto, elétrodo, lêvedo, protótipo, quadrúmano, vermífugo, zéfiro.
+Há algumas palavras cujo acento prosódico é incerto, oscilante, mesmo na língua culta.
+acrobata e acróbata  crisântemo e crisantemo Oceânia e Oceania réptil e reptil xerox e xérox e outras.
+Prosódia é uma palavra de origem grega, e significa o estudo do ritmo, da entonação e das demais propriedades acústicas relacionadas à fala, ou seja, aquelas que não podem ser identificadas na transcrição ortográfica.
+A ortoépia e a prosódia são duas áreas na gramática responsáveis pela correta pronúncia das palavras, e por isso se relacionam bastante com a fonética e a fonologia.
+A prosódia trata da correta acentuação tônica das palavras.
+ A prosódia trata da correta acentuação tônica das palavras.
+ Cometer erro de prosódia é transformar uma palavra paroxítona em oxítona, ou uma proparoxítona em paroxítona etc.
+ rúbrica em vez de rubrica.
+ sútil em vez de sutil.
+ côndor em vez de condor.
+A prosódia está relacionada com a correta acentuação das palavras, tomando como padrão a língua considerada culta.
+Abaixo estão relacionados alguns exemplos de vocábulos que frequentemente geram dúvidas quanto à prosódia
+oxítonas cateter, Cister, condor, hangar, mister, negus, Nobel, novel, recém, refém, ruim, sutil, ureter.
+paroxítonas avaro, avito, barbárie, caracteres, cartomancia, ciclope, erudito, ibero, gratuito, ônix, poliglota, pudico, rubrica, tulipa.
+proparoxítonas aeródromo, alcoólatra, álibi, âmago,antídoto, elétrodo, lêvedo, protótipo, quadrúmano, vermífugo, zéfiro.
+Há algumas palavras cujo acento prosódico é incerto, oscilante, mesmo na língua culta.
+acrobata e acróbata  crisântemo e crisantemo Oceânia e Oceania réptil e reptil xerox e xérox e outras.
+Prosódia é uma palavra de origem grega, e significa o estudo do ritmo, da entonação e das demais propriedades acústicas relacionadas à fala, ou seja, aquelas que não podem ser identificadas na transcrição ortográfica.
+
