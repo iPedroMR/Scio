@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1205px" height="332px" viewBox="0 0 1205 332" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>topic-hero-background-3-desktop</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="101.466677%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#941B3D" offset="0%"></stop>
+            <stop stop-color="#E51B54" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="71" y="89" width="1205" height="332"></rect>
+    </defs>
+    <g id="topic-hero-background-3-desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.708955224">
+        <g id="Fill-10-+-Fill-10-Mask" transform="translate(-71.000000, -89.000000)">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            <ellipse id="Oval-4-Copy-4" fill="#FFFFFF" opacity="0.135611007" style="mix-blend-mode: overlay;" transform="translate(180.057508, 98.054545) scale(-1, 1) translate(-180.057508, -98.054545) " cx="180.057508" cy="98.0545455" rx="92.4680209" ry="92.0545455"></ellipse>
+            <rect id="Rectangle-4" fill="#FFFFFF" opacity="0.14" style="mix-blend-mode: overlay;" transform="translate(990.208385, 216.518182) scale(-1, 1) rotate(-360.000000) translate(-990.208385, -216.518182) " x="903.490613" y="129.745455" width="173.435544" height="173.545455" rx="17"></rect>
+            <rect id="Rectangle-4-Copy" fill="#FFFFFF" opacity="0.135611007" style="mix-blend-mode: overlay;" transform="translate(86.835419, 394.590909) scale(-1, 1) rotate(-360.000000) translate(-86.835419, -394.590909) " x="0.117647059" y="307.818182" width="173.435544" height="173.545455" rx="17"></rect>
+            <path d="M700.066865,89.8097879 C693.584716,83.3319979 683.07861,83.3355317 676.60082,89.817681 L394.540287,372.068026 C392.501063,374.108623 391.029092,376.645625 390.269603,379.428725 C387.857015,388.269508 393.068096,397.392167 401.908878,399.804756 L789.732668,505.639186 C792.590775,506.419144 795.605583,506.419659 798.463957,505.640677 C807.305563,503.231108 812.519759,494.110229 810.11019,485.268622 L704.346933,97.1838466 C703.586895,94.3949828 702.111497,91.853045 700.066865,89.8097879 Z" id="Rectangle-9" fill="#FFFFFF" fill-rule="nonzero" opacity="0.137779018" style="mix-blend-mode: overlay;" transform="translate(600.189149, 295.589145) scale(-1, 1) rotate(-52.000000) translate(-600.189149, -295.589145) "></path>
+            <ellipse id="Oval-4-Copy-4" fill="#FFFFFF" opacity="0.265566698" style="mix-blend-mode: overlay;" transform="translate(1248.261914, 355.127412) scale(-1, 1) translate(-1248.261914, -355.127412) " cx="1248.26191" cy="355.127412" rx="76.3232406" ry="75.9819573"></ellipse>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1205px" height="332px" viewBox="0 0 1205 332" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>topic-hero-background-10-desktop</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="98.7112797%" y2="95.8729019%" id="linearGradient-1">
+            <stop stop-color="#0C2B89" offset="0%"></stop>
+            <stop stop-color="#0039E6" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="135" y="262" width="1205" height="332"></rect>
+    </defs>
+    <g id="topic-hero-background-10-desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Fill-10-+-Fill-10-Mask" opacity="0.708955224" transform="translate(-135.000000, -262.000000)">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            <ellipse id="Oval-4-Copy-4" fill="#FFFFFF" opacity="0.135611007" style="mix-blend-mode: overlay;" transform="translate(209.370399, 313.309091) scale(1, -1) translate(-209.370399, -313.309091) " cx="209.370399" cy="313.309091" rx="92.4680209" ry="92.0545455"></ellipse>
+            <rect id="Rectangle-4" fill="#FFFFFF" opacity="0.154384328" style="mix-blend-mode: overlay;" transform="translate(1026.307885, 666.436364) scale(1, -1) rotate(-360.000000) translate(-1026.307885, -666.436364) " x="941.852315" y="581.927273" width="168.911139" height="169.018182" rx="17"></rect>
+            <path d="M884.112149,109.006168 C882.592105,103.428776 879.64151,98.3451877 875.552561,94.2588283 C862.588516,81.3029942 841.576303,81.3096501 828.620469,94.2736946 L575.10666,347.948161 C571.027896,352.02951 568.083755,357.103801 566.564745,362.670337 C561.739745,380.351951 572.162088,398.597167 589.843702,403.422167 L938.416702,498.5416 C944.132932,500.101458 950.162548,500.102428 955.879279,498.544408 C973.562443,493.725094 983.990655,475.483231 979.171341,457.800067 L884.112149,109.006168 Z" id="Rectangle-9" fill="#FFFFFF" fill-rule="nonzero" opacity="0.137779018" style="mix-blend-mode: overlay;" transform="translate(772.866636, 292.129257) scale(1, -1) rotate(-52.000000) translate(-772.866636, -292.129257) "></path>
+            <ellipse id="Oval-4-Copy-4" fill="#FFFFFF" opacity="0.135611007" style="mix-blend-mode: overlay;" transform="translate(1158.269712, 342.509230) scale(1, -1) translate(-1158.269712, -342.509230) " cx="1158.26971" cy="342.50923" rx="44.4899875" ry="44.2910482"></ellipse>
+            <path d="M1074.71516,785.654545 C1172.24796,785.654545 1251.31392,706.942134 1251.31392,609.845455 C1251.31392,512.748775 1172.24796,434.036364 1074.71516,434.036364 C977.182354,434.036364 898.116395,512.748775 898.116395,609.845455 C898.116395,706.942134 977.182354,785.654545 1074.71516,785.654545 Z" id="Oval-4-Copy-4" fill="#FFFFFF" opacity="0.135611007" style="mix-blend-mode: overlay;" transform="translate(1074.715157, 609.845455) scale(1, -1) translate(-1074.715157, -609.845455) "></path>
+        </g>
+        <rect id="Rectangle-4-Copy" fill="#FFFFFF" opacity="0.135611007" style="mix-blend-mode: overlay;" transform="translate(318.433377, 251.124877) rotate(-360.000000) translate(-318.433377, -251.124877) " x="209.36875" y="141.854545" width="218.129254" height="218.540664" rx="17"></rect>
+    </g>
+</svg>
